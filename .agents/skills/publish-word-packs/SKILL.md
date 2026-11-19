@@ -60,4 +60,5 @@ CDN cache lag, but does not freeze a release snapshot.
 - Push over HTTPS uses Git Credential Manager. If the push fails for credentials, tell the user to run
   `git push` once in a normal terminal to sign in, then re-run the watch script.
 - Never pass `-CoAuthorJunie` and never add an AI co-author trailer (`git-commit-authorship`).
-- Tags (`v1`, `v2`, ...) freeze a release for the app; create a new tag only when the user asks.
+- The app does not use Git release tags; create one only when the user asks for a separate frozen
+  release.

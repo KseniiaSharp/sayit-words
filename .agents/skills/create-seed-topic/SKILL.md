@@ -54,4 +54,6 @@ Prompt form: `create seed topic:<topic>`, optionally with pair, level, count, fo
 - Never renumber or reuse ids; never edit or delete existing lines (deleting needs the user's approval).
 - Commits use the user's git identity, with no AI co-author trailer (`git-commit-authorship`).
 - Tags (`v1`, ...) are created only when the user asks.
-- SayIt downloads `index.json` and pack files from `main`; every push to `main` is live immediately. No Git release tags are used. The SHA-256 check detects content mismatches caused by raw CDN cache lag so the user can retry.
+- SayIt downloads `index.json` and pack files from `main`; every push to `main` is live immediately.
+  No Git release tags are used. The SHA-256 check detects content mismatches caused by raw CDN
+  cache lag, so the user can retry.
