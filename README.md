@@ -22,13 +22,29 @@ Ids must be below 1000000 (user words start there).
 A fixed typo keeps its id. A deleted word's id is retired and never reused.
 New packs get their own block, for example `de-ru/a2-exam` gets 110001 - 119999.
 
+## Catalog `index.json`
+
+The app downloads `index.json` first and then only the packs the user picks. Each pack entry has:
+
+| Field | Source |
+|---|---|
+| `name`, `level`, `tags`, `idFrom`, `idTo` | edited by hand |
+| `id`, `pair`, `file`, `words`, `sha256` | computed from the pack file |
+| `version` | raised by 1 whenever `sha256` changes |
+
+`sha256` is the hash of the file with LF line endings, as served by GitHub.
+`tools/build-index.ps1` regenerates the file; never edit the computed fields by hand. A new pack file
+gets an entry with the next free id block; then set its `name`, `level` and `tags`.
+
 ## Checks and publishing
 
-- `tools/validate.ps1` checks format, BOM, id ranges and unique ids. GitHub Actions runs it on every push.
-- `tools/publish.ps1` validates, commits, pushes and waits for the pipeline (`tools/watch-pipeline.ps1`).
-  Add `-FromSayIt` to copy the bundled seed files from `..\SayIt\Resources\Raw` first.
+- `tools/build-index.ps1` regenerates `index.json`. `-Check` only reports whether it is up to date.
+- `tools/validate.ps1` checks format, BOM, ids inside the `index.json` ranges and unique ids.
+  GitHub Actions runs it and `build-index.ps1 -Check` on every push.
+- `tools/publish.ps1` rebuilds the index, validates, commits, pushes and waits for the pipeline
+  (`tools/watch-pipeline.ps1`). Add `-FromSayIt` to copy the bundled seed files from `..\SayIt\Resources\Raw` first.
 
-The id ranges above are also listed in `tools/validate.ps1`. Update both when adding a pack.
+The id ranges above come from `index.json`. Keep this table in sync when adding a pack.
 
 ## License
 

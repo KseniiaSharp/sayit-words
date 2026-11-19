@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "en-ru/it-interview",
+      "pair": "EN-RU",
+      "name": "IT Interview",
+      "level": null,
+      "tags": ["it", "interview"],
+      "file": "en-ru/it-interview.data",
+      "version": 1,
+      "words": 459,
+      "idFrom": 1,
+      "idTo": 99999,
+      "sha256": "d2618cdedd5aa8e2745d53e2c1ffd829afdf0bb9e84b350f628ad6c1f40d9e84"
+    },
+    {
+      "id": "de-ru/a1-exam",
+      "pair": "DE-RU",
+      "name": "German A1 Exam",
+      "level": "A1",
+      "tags": ["exam"],
+      "file": "de-ru/a1-exam.data",
+      "version": 1,
+      "words": 1000,
+      "idFrom": 100001,
+      "idTo": 109999,
+      "sha256": "bf7410c6a31fef0afaebc8ba37084810c2c53f9c38d09bf2cd35222182a2d59b"
+    }
+  ]
+}

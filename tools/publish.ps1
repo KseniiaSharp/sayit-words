@@ -1,6 +1,7 @@
 <#
-Validates the packs, commits all changes, pushes the current branch and waits for the
-GitHub Actions result (tools/watch-pipeline.ps1). Nothing is committed when validation fails.
+Rebuilds index.json (tools/build-index.ps1), validates the packs, commits all changes, pushes the
+current branch and waits for the GitHub Actions result (tools/watch-pipeline.ps1).
+Nothing is committed when validation fails.
   -FromSayIt      first copy the bundled seed files from ..\SayIt\Resources\Raw into the packs
   -CoAuthorJunie  add the Junie co-author trailer (use it when an agent commits)
   -NoWatch        push without waiting for the pipeline
@@ -27,6 +28,9 @@ if ($FromSayIt) {
         Write-Output ('Copied {0} -> {1}' -f $sayItSeeds[$pack], $pack)
     }
 }
+
+& (Join-Path $PSScriptRoot 'build-index.ps1') -Root $root
+if ($LASTEXITCODE -ne 0) { Write-Output 'Building index.json failed, nothing committed.'; exit 1 }
 
 & (Join-Path $PSScriptRoot 'validate.ps1') -Root $root
 if ($LASTEXITCODE -ne 0) { Write-Output 'Validation failed, nothing committed.'; exit 1 }

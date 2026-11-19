@@ -7,12 +7,6 @@ param([string]$Root = (Split-Path -Parent $PSScriptRoot))
 
 $ErrorActionPreference = 'Stop'
 
-# Id block of every pack. Keep in sync with the table in README.md.
-$Ranges = [ordered]@{
-    'en-ru/it-interview.data' = @(1, 99999)
-    'de-ru/a1-exam.data'      = @(100001, 109999)
-}
-
 $ci = $env:GITHUB_ACTIONS -eq 'true'
 $script:errors = 0
 $script:warnings = 0
@@ -24,6 +18,18 @@ function Report([string]$Level, [string]$File, [int]$Line, [string]$Text) {
 }
 
 $Root = (Resolve-Path $Root).Path
+
+# Id block of every pack, from index.json (tools/build-index.ps1).
+$Ranges = [ordered]@{}
+$indexPath = Join-Path $Root 'index.json'
+if (Test-Path $indexPath) {
+    foreach ($p in @(([IO.File]::ReadAllText($indexPath) | ConvertFrom-Json).packs)) {
+        $Ranges[[string]$p.file] = @([int]$p.idFrom, [int]$p.idTo)
+    }
+} else {
+    Report 'error' 'index.json' 1 'index.json is missing, run tools/build-index.ps1'
+}
+
 $utf8 = New-Object System.Text.UTF8Encoding($false, $true)
 $files = @(Get-ChildItem -Path $Root -Filter *.data -Recurse -File |
     Where-Object { $_.FullName -notmatch '[\\/]\.git[\\/]' } | Sort-Object FullName)
@@ -35,7 +41,7 @@ $total = 0
 foreach ($file in $files) {
     $rel = $file.FullName.Substring($Root.Length + 1).Replace('\', '/')
     if (-not $Ranges.Contains($rel)) {
-        Report 'error' $rel 1 'Pack has no id range in tools/validate.ps1'
+        Report 'error' $rel 1 'Pack has no entry in index.json, run tools/build-index.ps1'
         continue
     }
     $from, $to = $Ranges[$rel]
@@ -91,7 +97,7 @@ foreach ($file in $files) {
 }
 
 foreach ($pack in $Ranges.Keys) {
-    if (-not (Test-Path (Join-Path $Root $pack))) { Report 'error' $pack 1 'Pack listed in tools/validate.ps1 is missing' }
+    if (-not (Test-Path (Join-Path $Root $pack))) { Report 'error' $pack 1 'Pack listed in index.json is missing' }
 }
 
 Write-Output ('Checked {0} words in {1} packs: {2} errors, {3} warnings.' -f $total, $files.Count, $script:errors, $script:warnings)

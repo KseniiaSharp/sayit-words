@@ -14,3 +14,6 @@ jobs:
       - name: Validate packs
         shell: pwsh
         run: ./tools/validate.ps1
+      - name: Check index.json is up to date
+        shell: pwsh
+        run: ./tools/build-index.ps1 -Check
