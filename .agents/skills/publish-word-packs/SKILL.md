@@ -24,6 +24,8 @@ that changed the words. This skill is the user's standing request to commit and 
 - `tools/watch-pipeline.ps1` - polls the GitHub API until all Actions runs of a commit have finished, prints
   runs, jobs, steps and annotations, ends with `RESULT: SUCCESS` or `RESULT: FAILED`.
   Exit code 0 success, 1 failed, 2 timeout. Uses the public API (60 requests/hour); `GITHUB_TOKEN` raises it.
+- `tools/add-topic.ps1` - adds a generated topic (new pack or append) without duplicates; see the
+  `create-seed-topic` skill.
 - `.github/workflows/validate.yml` - runs `tools/validate.ps1` and `tools/build-index.ps1 -Check` on push to
   `main`, pull requests and manually.
 
@@ -38,7 +40,7 @@ that changed the words. This skill is the user's standing request to commit and 
      `$sayItSeeds` in `tools/publish.ps1` if SayIt bundles it, and a row to the README table.
 2. **Publish** from the repo root and wait for the result (allow about 5 minutes):
    ```powershell
-   powershell -ExecutionPolicy Bypass -File .\tools\publish.ps1 -CoAuthorJunie -Message "<what changed>"
+   powershell -ExecutionPolicy Bypass -File .\tools\publish.ps1 -Message "<what changed>"
    ```
    Add `-FromSayIt` for step 1 SayIt edits. Without `-Message` the message lists the changed packs.
 3. **Report** the printed pipeline output to the user: each run with its conclusion and URL, failed steps
@@ -53,4 +55,5 @@ that changed the words. This skill is the user's standing request to commit and 
 - Deleting words is still a deletion: ask the user before removing lines (SayIt `global-rules`).
 - Push over HTTPS uses Git Credential Manager. If the push fails for credentials, tell the user to run
   `git push` once in a normal terminal to sign in, then re-run the watch script.
+- Never pass `-CoAuthorJunie` and never add an AI co-author trailer (`git-commit-authorship`).
 - Tags (`v1`, `v2`, ...) freeze a release for the app; create a new tag only when the user asks.

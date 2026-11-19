@@ -84,7 +84,8 @@ question with `ask_user`.
    added word appears once for its pair. If code was changed to insert the words, run
    `dotnet build SayIt.csproj`.
 7. **Publish.** After any seed change, follow `publish-word-packs/SKILL.md`: it commits,
-   pushes to GitHub and reports the pipeline result automatically.
+   pushes to GitHub and reports the pipeline result automatically. For a whole new topic pack
+   ("create seed topic:<topic>") use `create-seed-topic/SKILL.md` and `tools/add-topic.ps1`.
 
 ## Rules
 

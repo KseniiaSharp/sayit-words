@@ -41,6 +41,9 @@ gets an entry with the next free id block; then set its `name`, `level` and `tag
 - `tools/build-index.ps1` regenerates `index.json`. `-Check` only reports whether it is up to date.
 - `tools/validate.ps1` checks format, BOM, ids inside the `index.json` ranges and unique ids.
   GitHub Actions runs it and `build-index.ps1 -Check` on every push.
+- `tools/add-topic.ps1` adds a new topic from a list of `foreign|translation[|grammar|example]` lines without
+  ids: skips words already in the pair, assigns the next free id block, updates `index.json` and the table
+  above, validates, and with `-Publish` commits and pushes. `-DryRun` only lists the duplicates.
 - `tools/publish.ps1` rebuilds the index, validates, commits, pushes and waits for the pipeline
   (`tools/watch-pipeline.ps1`). Add `-FromSayIt` to copy the bundled seed files from `..\SayIt\Resources\Raw` first.
 
