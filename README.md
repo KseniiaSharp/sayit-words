@@ -16,6 +16,7 @@ No `|` inside fields.
 |---|---|---|
 | en-ru/it-interview | 1 - 99999 | 1 - 459 |
 | de-ru/a1-exam | 100001 - 109999 | 100001 - 101000 |
+| en-ru/travel | 110001 - 119999 | 110001 - 110080 |
 
 Ids must be below 1000000 (user words start there).
 

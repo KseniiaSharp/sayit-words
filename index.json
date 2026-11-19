@@ -26,6 +26,19 @@
       "idFrom": 100001,
       "idTo": 109999,
       "sha256": "bf7410c6a31fef0afaebc8ba37084810c2c53f9c38d09bf2cd35222182a2d59b"
+    },
+    {
+      "id": "en-ru/travel",
+      "pair": "EN-RU",
+      "name": "Travel",
+      "level": "B1",
+      "tags": ["travel"],
+      "file": "en-ru/travel.data",
+      "version": 1,
+      "words": 80,
+      "idFrom": 110001,
+      "idTo": 119999,
+      "sha256": "b0ada4bd7c5ff1862509f7139b8839d7b8898baff61fa576ca6284a9c163aba6"
     }
   ]
 }
