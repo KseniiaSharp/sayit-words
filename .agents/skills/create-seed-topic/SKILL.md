@@ -54,5 +54,4 @@ Prompt form: `create seed topic:<topic>`, optionally with pair, level, count, fo
 - Never renumber or reuse ids; never edit or delete existing lines (deleting needs the user's approval).
 - Commits use the user's git identity, with no AI co-author trailer (`git-commit-authorship`).
 - Tags (`v1`, ...) are created only when the user asks.
-- The SayIt app does not show the new pack yet: it bundles only `seed.data` and `seed_de_a1.data`
-  until downloading packs is built.
+- SayIt downloads `index.json` and pack files from `main`; every push to `main` is live immediately. No Git release tags are used. The SHA-256 check detects content mismatches caused by raw CDN cache lag so the user can retry.

@@ -2,6 +2,9 @@
 
 Word packs for the SayIt app. One folder per language pair, one file per topic.
 
+SayIt downloads `index.json` and pack files from `main`; every push to `main` is live immediately.
+The SHA-256 check detects file mismatches but does not freeze a release. No Git release tags are used.
+
 ## Format
 
 UTF-8 without BOM, LF, one word per line:
@@ -21,7 +24,7 @@ No `|` inside fields.
 Ids must be below 1000000 (user words start there).
 
 A fixed typo keeps its id. A deleted word's id is retired and never reused.
-New packs get their own block, for example `de-ru/a2-exam` gets 110001 - 119999.
+New packs get their own block, for example `de-ru/a2-exam` gets 120001 - 129999.
 
 ## Catalog `index.json`
 

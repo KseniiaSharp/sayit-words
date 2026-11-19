@@ -9,6 +9,10 @@ The GitHub repo `KseniiaSharp/sayit-words` is the master copy of the word lists.
 change is committed and pushed **automatically, without asking**, as the last step of the task
 that changed the words. This skill is the user's standing request to commit and push.
 
+SayIt downloads `index.json` and pack files from `main`, with no Git release tags; every push to
+`main` is live immediately. SHA-256 verification detects file mismatches, including temporary raw
+CDN cache lag, but does not freeze a release snapshot.
+
 ## Files
 
 - `index.json` - pack catalog the app downloads first. Per pack: hand-edited `name`, `level`, `tags`,
