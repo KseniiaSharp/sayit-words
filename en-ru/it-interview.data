@@ -1,0 +1,469 @@
+1|interview|собеседование
+2|candidate|кандидат
+3|employer|работодатель
+4|employee|сотрудник
+5|vacancy|вакансия
+6|experience|опыт
+7|skill|навык
+8|requirement|требование
+9|responsibility|обязанность
+10|salary|зарплата
+11|job offer|предложение о работе
+12|probation period|испытательный срок
+13|strength|сильная сторона
+14|weakness|слабая сторона
+15|achievement|достижение
+16|teamwork|командная работа
+17|deadline|срок, дедлайн
+18|feedback|обратная связь
+19|project|проект
+20|release|релиз, выпуск
+21|deployment|развертывание
+22|bug|ошибка в коде
+23|debugging|отладка
+24|testing|тестирование
+25|code review|проверка кода
+26|refactoring|рефакторинг
+27|documentation|документация
+28|version control|контроль версий
+29|repository|репозиторий
+30|commit|коммит, фиксация изменений
+31|branch|ветка
+32|merge|слияние
+33|pull request|запрос на слияние
+34|framework|фреймворк
+35|library|библиотека
+36|database|база данных
+37|query|запрос к базе данных
+38|algorithm|алгоритм
+39|data structure|структура данных
+40|performance|производительность
+41|scalability|масштабируемость
+42|security|безопасность
+43|API|программный интерфейс
+44|endpoint|конечная точка
+45|interface|интерфейс
+46|inheritance|наследование
+47|dependency|зависимость
+48|exception|исключение
+49|memory leak|утечка памяти
+50|cache|кэш
+51|resume|резюме
+52|cover letter|сопроводительное письмо
+53|recruiter|рекрутер
+54|hiring manager|нанимающий менеджер
+55|job description|описание вакансии
+56|technical interview|техническое собеседование
+57|coding challenge|тестовое задание по коду
+58|whiteboard|маркерная доска
+59|soft skills|гибкие навыки
+60|hard skills|профессиональные навыки
+61|team lead|руководитель команды
+62|senior developer|старший разработчик
+63|junior developer|младший разработчик
+64|full-stack|full-stack, полный стек
+65|back-end|серверная часть
+66|front-end|клиентская часть
+67|remote work|удаленная работа
+68|onboarding|введение в должность
+69|career growth|карьерный рост
+70|notice period|срок уведомления об увольнении
+71|background check|проверка биографии
+72|reference|рекомендация
+73|negotiation|переговоры
+74|benefits|льготы
+75|overtime|сверхурочная работа
+76|stand-up meeting|ежедневная планерка
+77|sprint|спринт
+78|backlog|бэклог
+79|user story|пользовательская история
+80|agile|гибкая методология
+81|scrum|скрам
+82|requirements analysis|анализ требований
+83|stakeholder|заинтересованная сторона
+84|milestone|веха
+85|estimate|оценка
+86|workload|рабочая нагрузка
+87|priority|приоритет
+88|bottleneck|узкое место
+89|trade-off|компромисс
+90|best practice|лучшая практика
+91|design pattern|шаблон проектирования
+92|object-oriented programming|объектно-ориентированное программирование
+93|polymorphism|полиморфизм
+94|encapsulation|инкапсуляция
+95|abstraction|абстракция
+96|recursion|рекурсия
+97|loop|цикл
+98|array|массив
+99|linked list|связный список
+100|stack|стек
+101|queue|очередь
+102|hash table|хеш-таблица
+103|binary tree|двоичное дерево
+104|sorting|сортировка
+105|complexity|сложность
+106|variable|переменная
+107|function|функция
+108|method|метод
+109|class|класс
+110|object|объект
+111|instance|экземпляр
+112|parameter|параметр
+113|argument|аргумент
+114|return value|возвращаемое значение
+115|data type|тип данных
+116|string|строка
+117|integer|целое число
+118|boolean|логическое значение
+119|operator|оператор
+120|syntax|синтаксис
+121|compiler|компилятор
+122|runtime|среда выполнения
+123|thread|поток
+124|concurrency|параллелизм
+125|asynchronous|асинхронный
+126|synchronization|синхронизация
+127|deadlock|взаимная блокировка
+128|garbage collection|сборка мусора
+129|unit test|модульный тест
+130|integration test|интеграционный тест
+131|test coverage|покрытие тестами
+132|continuous integration|непрерывная интеграция
+133|continuous delivery|непрерывная поставка
+134|pipeline|конвейер
+135|build|сборка
+136|environment|окружение
+137|production|продакшн, рабочая среда
+138|staging|тестовая среда
+139|rollback|откат
+140|hotfix|срочное исправление
+141|logging|логирование
+142|monitoring|мониторинг
+143|server|сервер
+144|client|клиент
+145|request|запрос
+146|response|ответ
+147|authentication|аутентификация
+148|authorization|авторизация
+149|encryption|шифрование
+150|load balancing|балансировка нагрузки
+
+151|codebase|кодовая база
+152|source code|исходный код
+153|code sample|пример кода
+154|code snippet|фрагмент кода
+155|code quality|качество кода
+156|clean code|чистый код
+157|coding style|стиль программирования
+158|naming convention|соглашение об именовании
+159|indentation|отступ
+160|syntax error|синтаксическая ошибка
+161|compile-time error|ошибка времени компиляции
+162|runtime error|ошибка времени выполнения
+163|logical error|логическая ошибка
+164|edge case|граничный случай
+165|corner case|краевой случай
+166|test case|тестовый случай
+167|test suite|набор тестов
+168|test runner|средство запуска тестов
+169|assertion|проверка условия
+170|test double|тестовый дублер
+
+171|mock object|мок-объект
+172|stub|заглушка
+173|fake service|поддельный сервис
+174|test fixture|тестовая фикстура
+175|test data|тестовые данные
+176|regression test|регрессионный тест
+177|smoke test|дымовой тест
+178|acceptance test|приемочный тест
+179|end-to-end test|сквозной тест
+180|negative test|негативный тест
+181|positive test|позитивный тест
+182|boundary value|граничное значение
+183|input validation|проверка входных данных
+184|output validation|проверка выходных данных
+185|error handling|обработка ошибок
+186|exception handling|обработка исключений
+187|stack trace|трассировка стека
+188|debugger|отладчик
+189|breakpoint|точка останова
+190|watch window|окно наблюдения
+
+191|software architecture|архитектура программного обеспечения
+192|system design|проектирование системы
+193|component|компонент
+194|module|модуль
+195|package|пакет
+196|namespace|пространство имен
+197|assembly|сборка
+198|executable|исполняемый файл
+199|source file|исходный файл
+200|configuration file|файл конфигурации
+201|application setting|настройка приложения
+202|dependency injection container|контейнер внедрения зависимостей
+203|service provider|поставщик служб
+204|constructor injection|внедрение через конструктор
+205|interface segregation|разделение интерфейсов
+206|inversion of control|инверсия управления
+207|separation of concerns|разделение ответственности
+208|single responsibility|единственная ответственность
+209|open-closed principle|принцип открытости и закрытости
+210|dependency inversion|инверсия зависимостей
+
+211|factory pattern|шаблон фабрика
+212|repository pattern|шаблон репозиторий
+213|unit of work|единица работы
+214|singleton pattern|шаблон одиночка
+215|adapter pattern|шаблон адаптер
+216|decorator pattern|шаблон декоратор
+217|observer pattern|шаблон наблюдатель
+218|strategy pattern|шаблон стратегия
+219|builder pattern|шаблон строитель
+220|command pattern|шаблон команда
+221|mediator pattern|шаблон посредник
+222|facade pattern|шаблон фасад
+223|dependency graph|граф зависимостей
+224|circular dependency|циклическая зависимость
+225|object lifetime|время жизни объекта
+226|transient service|временная служба
+227|scoped service|служба в рамках области
+228|singleton service|служба-одиночка
+229|service registration|регистрация службы
+230|service resolution|получение службы
+
+231|property|свойство
+232|field|поле
+233|getter|геттер
+234|setter|сеттер
+235|auto-property|автоматическое свойство
+236|backing field|поле поддержки свойства
+237|indexer|индексатор
+238|extension method|метод расширения
+239|generic type|обобщенный тип
+240|type parameter|параметр типа
+241|type constraint|ограничение типа
+242|nullable reference type|ссылочный тип, допускающий null
+243|null check|проверка на null
+244|pattern matching|сопоставление с образцом
+245|tuple|кортеж
+246|record type|тип record
+247|enumeration|перечисление
+248|attribute|атрибут
+249|reflection|рефлексия
+250|metadata|метаданные
+
+251|delegate type|тип делегата
+252|event handler|обработчик события
+253|multicast delegate|многоадресный делегат
+254|callback|обратный вызов
+255|closure|замыкание
+256|expression tree|дерево выражений
+257|anonymous function|анонимная функция
+258|iterator|итератор
+259|enumerator|перечислитель
+260|asynchronous method|асинхронный метод
+261|awaitable|ожидаемый объект
+262|cancellation token|токен отмены
+263|cancellation request|запрос на отмену
+264|synchronization context|контекст синхронизации
+265|thread pool|пул потоков
+266|race condition|состояние гонки
+267|parallel processing|параллельная обработка
+268|concurrent collection|потокобезопасная коллекция
+269|lock statement|оператор блокировки
+270|semaphore|семафор
+
+271|managed memory|управляемая память
+272|unmanaged resource|неуправляемый ресурс
+273|memory allocation|выделение памяти
+274|memory usage|использование памяти
+275|memory pressure|нагрузка на память
+276|object disposal|освобождение объекта
+277|disposable pattern|шаблон освобождения ресурсов
+278|garbage collector|сборщик мусора
+279|heap|куча
+280|stack memory|память стека
+281|memory fragmentation|фрагментация памяти
+282|buffer|буфер
+283|stream|поток данных
+284|file stream|файловый поток
+285|network stream|сетевой поток
+286|serialization|сериализация
+287|deserialization|десериализация
+288|JSON payload|данные JSON
+289|XML document|документ XML
+290|binary data|двоичные данные
+
+291|HTTP request|HTTP-запрос
+292|HTTP response|HTTP-ответ
+293|HTTP status code|код состояния HTTP
+294|request header|заголовок запроса
+295|response body|тело ответа
+296|query string|строка запроса
+297|route parameter|параметр маршрута
+298|REST API|REST API
+299|REST endpoint|конечная точка REST
+300|web service|веб-служба
+301|web server|веб-сервер
+302|client application|клиентское приложение
+303|server application|серверное приложение
+304|network protocol|сетевой протокол
+305|TCP connection|TCP-соединение
+306|DNS lookup|поиск DNS
+307|timeout|тайм-аут
+308|retry policy|политика повторных попыток
+309|rate limiting|ограничение частоты запросов
+310|API versioning|версионирование API
+
+311|relational database|реляционная база данных
+312|database schema|схема базы данных
+313|database migration|миграция базы данных
+314|primary key|первичный ключ
+315|foreign key|внешний ключ
+316|unique constraint|ограничение уникальности
+317|index scan|сканирование индекса
+318|database transaction|транзакция базы данных
+319|transaction rollback|откат транзакции
+320|data model|модель данных
+321|entity mapping|сопоставление сущности
+322|object-relational mapper|объектно-реляционный преобразователь
+323|query plan|план запроса
+324|stored procedure|хранимая процедура
+325|connection pool|пул соединений
+326|data consistency|согласованность данных
+327|data integrity|целостность данных
+328|normalization|нормализация
+329|denormalization|денормализация
+330|cache invalidation|инвалидация кэша
+
+331|source control|контроль исходного кода
+332|feature branch|ветка функциональности
+333|merge conflict|конфликт слияния
+334|commit history|история коммитов
+335|code ownership|ответственность за код
+336|build artifact|артефакт сборки
+337|build configuration|конфигурация сборки
+338|deployment pipeline|конвейер развертывания
+339|release candidate|кандидат на выпуск
+340|semantic versioning|семантическое версионирование
+341|package manager|менеджер пакетов
+342|package restore|восстановление пакетов
+343|dependency update|обновление зависимости
+344|vulnerability scan|сканирование уязвимостей
+345|static analysis|статический анализ
+346|code formatter|форматировщик кода
+347|linter|линтер
+348|technical debt|технический долг
+349|incident response|реагирование на инцидент
+350|root cause analysis|анализ первопричины
+351|fit|подходить
+352|workflow|рабочий процесс
+353|responsible|ответственный
+354|contribute|вносить вклад
+355|involved|вовлеченный
+356|implementing|внедрение, реализация
+357|complex|сложный
+358|data processing|обработка данных
+359|process|процесс, обрабатывать
+360|volume|объем
+361|volumes of|объемы
+362|well hole|колодец
+363|improve|улучшать
+364|across all|по всем
+365|break down into|разбивать на
+366|count on me|рассчитывай на меня
+367|expectation|ожидание
+368|handle it|справиться с этим
+369|suggest|предлагать
+370|issue|проблема
+371|keep to learning|продолжать учиться
+372|apart|отдельно, в стороне
+373|reliable|надежный
+374|advantage|преимущество
+375|goal|цель
+376|mindset|образ мышления
+377|pay attention to|обращать внимание на
+378|improvement|улучшение
+379|pay close attention to|внимательно следить за
+380|appreciate|ценить
+381|get frustrated|расстраиваться
+382|impact|влияние
+383|avoid|избегать
+384|implement|внедрять, реализовывать
+385|ensure|обеспечивать
+386|proper|надлежащий
+387|routing|маршрутизация
+388|existing|существующий
+389|append to|добавлять к
+390|multiple|множественный
+391|approach|подход
+392|efficient|эффективный
+393|scalable|масштабируемый
+394|intervention|вмешательство
+395|completely|полностью
+396|eliminate|устранять
+397|broken into|разделенный на
+398|interruption|прерывание
+399|effort to|усилие, чтобы
+400|achieve|достигать
+401|mutual|взаимный
+402|rather|скорее
+403|face challenges|сталкиваться с трудностями
+404|admit|признавать
+405|confidence|уверенность
+406|forward|вперед
+407|what matters is|важно то, что
+408|respond|отвечать, реагировать
+409|honest|честный
+410|treat|относиться
+411|primarily|в первую очередь
+412|first of all|прежде всего
+413|urgent|срочный
+414|facilitator|ведущий, фасилитатор
+415|through|через
+416|suddenly|внезапно
+417|to deal with|иметь дело с
+418|cause|причина, вызывать
+419|criticism|критика
+420|irritate|раздражать
+421|annoy|досаждать
+422|waste|тратить впустую
+423|let my team down|подвести мою команду
+424|finish on time|закончить вовремя
+425|in use|используемый
+426|attract|привлекать
+427|encourage|поощрять
+428|obviously|очевидно
+429|setback|неудача
+430|maintain|поддерживать
+431|suffer|страдать
+432|consider|рассматривать
+433|expect|ожидать
+434|exceed|превосходить
+435|hire|нанимать
+436|impress|впечатлять
+437|impression|впечатление
+438|composed|спокойный, собранный
+439|maintainable|поддерживаемый
+440|exist|существовать
+441|purpose|цель, назначение
+442|define|определять
+443|stage|этап
+444|simplicity|простота
+445|prevent|предотвращать
+446|frequently|часто
+447|explain|объяснять
+448|tough|трудный
+449|tricky|сложный, хитрый
+450|suspect|подозревать
+451|relate|относиться, связывать
+452|initial|начальный
+453|ongoing|продолжающийся
+454|purpose of|цель
+455|contributor|участник, соавтор
+456|explicit|явный
+457|intercept|перехватывать
+458|fetch|получать, извлекать
+459|substitute|заменять

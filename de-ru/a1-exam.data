@@ -1,0 +1,1035 @@
+100001|hallo|привет||Hallo, wie geht es dir?
+100002|guten Morgen|доброе утро||Guten Morgen, Anna!
+100003|guten Tag|добрый день||Guten Tag, Herr Müller.
+100004|guten Abend|добрый вечер||Guten Abend, liebe Gäste.
+100005|gute Nacht|спокойной ночи||Gute Nacht, schlaf gut!
+100006|auf Wiedersehen|до свидания||Auf Wiedersehen, bis morgen!
+100007|tschüss|пока||Tschüss, bis bald!
+100008|bitte|пожалуйста||Einen Kaffee, bitte.
+100009|danke|спасибо||Danke für die Hilfe.
+100010|Entschuldigung|извините||Entschuldigung, wo ist der Bahnhof?
+100011|ja|да||Ja, ich komme gern.
+100012|nein|нет||Nein, ich habe keine Zeit.
+100013|der Name|имя|Pl.: die Namen|Mein Name ist Anna.
+100014|der Vorname|имя (личное)|Pl.: die Vornamen|Mein Vorname ist Peter.
+100015|der Nachname|фамилия|Pl.: die Nachnamen|Mein Nachname ist Schmidt.
+100016|das Alter|возраст|nur Singular|Mein Alter ist zwanzig.
+100017|die Adresse|адрес|Pl.: die Adressen|Das ist meine Adresse.
+100018|die Telefonnummer|номер телефона|Pl.: die Telefonnummern|Wie ist deine Telefonnummer?
+100019|das Land|страна|Pl.: die Länder|Deutschland ist ein Land.
+100020|die Stadt|город|Pl.: die Städte|Berlin ist eine große Stadt.
+100021|die Familie|семья|Pl.: die Familien|Meine Familie ist groß.
+100022|die Mutter|мать|Pl.: die Mütter|Meine Mutter kocht gern.
+100023|der Vater|отец|Pl.: die Väter|Mein Vater arbeitet viel.
+100024|die Eltern|родители|nur Plural|Meine Eltern wohnen in Moskau.
+100025|der Bruder|брат|Pl.: die Brüder|Mein Bruder wohnt in Berlin.
+100026|die Schwester|сестра|Pl.: die Schwestern|Meine Schwester ist Lehrerin.
+100027|das Kind|ребенок|Pl.: die Kinder|Das Kind spielt im Garten.
+100028|der Freund|друг|Pl.: die Freunde|Er ist mein Freund.
+100029|die Freundin|подруга|Pl.: die Freundinnen|Meine Freundin heißt Lisa.
+100030|der Mann|мужчина, муж|Pl.: die Männer|Der Mann liest die Zeitung.
+100031|die Frau|женщина, жена|Pl.: die Frauen|Die Frau trinkt Tee.
+100032|das Haus|дом|Pl.: die Häuser|Das Haus ist alt.
+100033|die Wohnung|квартира|Pl.: die Wohnungen|Die Wohnung ist klein.
+100034|das Zimmer|комната|Pl.: die Zimmer|Das Zimmer ist hell.
+100035|die Küche|кухня|Pl.: die Küchen|Die Küche ist neu.
+100036|der Tisch|стол|Pl.: die Tische|Der Tisch ist rund.
+100037|der Stuhl|стул|Pl.: die Stühle|Der Stuhl ist bequem.
+100038|das Bett|кровать|Pl.: die Betten|Das Bett ist weich.
+100039|die Tür|дверь|Pl.: die Türen|Bitte mach die Tür zu.
+100040|das Fenster|окно|Pl.: die Fenster|Das Fenster ist offen.
+100041|das Wasser|вода|nur Singular|Ich trinke Wasser.
+100042|das Brot|хлеб|Pl.: die Brote|Das Brot ist frisch.
+100043|die Milch|молоко|nur Singular|Die Milch ist kalt.
+100044|der Kaffee|кофе|Pl.: die Kaffees|Der Kaffee ist heiß.
+100045|der Tee|чай|Pl.: die Tees|Ich trinke gern Tee.
+100046|das Essen|еда|nur Singular|Das Essen schmeckt gut.
+100047|das Frühstück|завтрак|Pl.: die Frühstücke|Das Frühstück ist fertig.
+100048|das Mittagessen|обед|Pl.: die Mittagessen|Das Mittagessen ist um zwölf Uhr.
+100049|das Abendessen|ужин|Pl.: die Abendessen|Das Abendessen ist lecker.
+100050|der Apfel|яблоко|Pl.: die Äpfel|Ich esse einen Apfel.
+100051|das Fleisch|мясо|nur Singular|Ich esse kein Fleisch.
+100052|der Fisch|рыба|Pl.: die Fische|Ich mag Fisch.
+100053|das Geld|деньги|nur Singular|Ich habe wenig Geld.
+100054|der Euro|евро|Pl.: die Euro|Das kostet zehn Euro.
+100055|der Preis|цена|Pl.: die Preise|Der Preis ist niedrig.
+100056|kaufen|покупать|ich kaufe, du kaufst, er kauft; Prät.: kaufte; Perf.: hat gekauft|Ich kaufe Brot.
+100057|bezahlen|платить|ich bezahle, du bezahlst, er bezahlt; Prät.: bezahlte; Perf.: hat bezahlt|Ich bezahle mit Karte.
+100058|das Geschäft|магазин|Pl.: die Geschäfte|Das Geschäft ist offen.
+100059|der Supermarkt|супермаркет|Pl.: die Supermärkte|Der Supermarkt ist groß.
+100060|die Arbeit|работа|nur Singular|Meine Arbeit ist interessant.
+100061|der Beruf|профессия|Pl.: die Berufe|Mein Beruf ist Lehrer.
+100062|der Lehrer|учитель|Pl.: die Lehrer|Der Lehrer erklärt die Aufgabe.
+100063|der Arzt|врач|Pl.: die Ärzte|Der Arzt hilft dem Patienten.
+100064|die Schule|школа|Pl.: die Schulen|Die Schule beginnt um acht.
+100065|lernen|учить|ich lerne, du lernst, er lernt; Prät.: lernte; Perf.: hat gelernt|Ich lerne Deutsch.
+100066|sprechen|говорить|ich spreche, du sprichst, er spricht; Prät.: sprach; Perf.: hat gesprochen|Sprechen Sie Englisch?
+100067|verstehen|понимать|ich verstehe, du verstehst, er versteht; Prät.: verstand; Perf.: hat verstanden|Ich verstehe dich.
+100068|lesen|читать|ich lese, du liest, er liest; Prät.: las; Perf.: hat gelesen|Ich lese ein Buch.
+100069|schreiben|писать|ich schreibe, du schreibst, er schreibt; Prät.: schrieb; Perf.: hat geschrieben|Ich schreibe eine E-Mail.
+100070|hören|слушать|ich höre, du hörst, er hört; Prät.: hörte; Perf.: hat gehört|Ich höre Musik.
+100071|fragen|спрашивать|ich frage, du fragst, er fragt; Prät.: fragte; Perf.: hat gefragt|Darf ich etwas fragen?
+100072|antworten|отвечать|ich antworte, du antwortest, er antwortet; Prät.: antwortete; Perf.: hat geantwortet|Er antwortet sofort.
+100073|wohnen|жить, проживать|ich wohne, du wohnst, er wohnt; Prät.: wohnte; Perf.: hat gewohnt|Ich wohne in Köln.
+100074|heißen|называться|ich heiße, du heißt, er heißt; Prät.: hieß; Perf.: hat geheißen|Ich heiße Anna.
+100075|kommen|приходить|ich komme, du kommst, er kommt; Prät.: kam; Perf.: ist gekommen|Ich komme aus Russland.
+100076|gehen|идти|ich gehe, du gehst, er geht; Prät.: ging; Perf.: ist gegangen|Wir gehen nach Hause.
+100077|fahren|ехать|ich fahre, du fährst, er fährt; Prät.: fuhr; Perf.: ist gefahren|Ich fahre mit dem Bus.
+100078|essen|есть|ich esse, du isst, er isst; Prät.: aß; Perf.: hat gegessen|Wir essen Suppe.
+100079|trinken|пить|ich trinke, du trinkst, er trinkt; Prät.: trank; Perf.: hat getrunken|Ich trinke Wasser.
+100080|schlafen|спать|ich schlafe, du schläfst, er schläft; Prät.: schlief; Perf.: hat geschlafen|Das Kind schläft.
+100081|haben|иметь|ich habe, du hast, er hat; Prät.: hatte; Perf.: hat gehabt|Ich habe Hunger.
+100082|sein|быть|ich bin, du bist, er ist; Prät.: war; Perf.: ist gewesen|Ich bin müde.
+100083|machen|делать|ich mache, du machst, er macht; Prät.: machte; Perf.: hat gemacht|Ich mache Hausaufgaben.
+100084|der Tag|день|Pl.: die Tage|Der Tag ist schön.
+100085|die Woche|неделя|Pl.: die Wochen|Die Woche hat sieben Tage.
+100086|der Monat|месяц|Pl.: die Monate|Der Monat ist kurz.
+100087|das Jahr|год|Pl.: die Jahre|Das Jahr hat zwölf Monate.
+100088|heute|сегодня||Heute ist es warm.
+100089|morgen|завтра||Morgen habe ich Zeit.
+100090|gestern|вчера||Gestern war ich zu Hause.
+100091|die Uhr|часы|Pl.: die Uhren|Die Uhr ist neu.
+100092|die Stunde|час|Pl.: die Stunden|Die Stunde hat sechzig Minuten.
+100093|die Minute|минута|Pl.: die Minuten|Warte bitte eine Minute.
+100094|der Montag|понедельник|Pl.: die Montage|Am Montag arbeite ich.
+100095|der Freitag|пятница|Pl.: die Freitage|Am Freitag gehe ich ins Kino.
+100096|das Wochenende|выходные|Pl.: die Wochenenden|Am Wochenende schlafe ich lange.
+100097|der Bahnhof|вокзал|Pl.: die Bahnhöfe|Der Bahnhof ist nah.
+100098|der Bus|автобус|Pl.: die Busse|Der Bus kommt gleich.
+100099|der Zug|поезд|Pl.: die Züge|Der Zug hat Verspätung.
+100100|das Auto|машина|Pl.: die Autos|Das Auto ist schnell.
+100101|die Straße|улица|Pl.: die Straßen|Die Straße ist lang.
+100102|links|налево||Gehen Sie links.
+100103|rechts|направо||Gehen Sie rechts.
+100104|geradeaus|прямо||Gehen Sie geradeaus.
+100105|groß|большой|Komp.: größer|Das Haus ist groß.
+100106|klein|маленький||Die Wohnung ist klein.
+100107|gut|хороший|Komp.: besser|Das Essen ist gut.
+100108|schlecht|плохой||Das Wetter ist schlecht.
+100109|neu|новый||Das Auto ist neu.
+100110|alt|старый|Komp.: älter|Das Haus ist alt.
+100111|heiß|горячий||Der Tee ist heiß.
+100112|kalt|холодный||Der Tee ist kalt.
+100113|das Wetter|погода|Pl.: -|Das Wetter ist heute schön.
+100114|die Sonne|солнце|Pl.: die Sonnen|Die Sonne scheint.
+100115|der Regen|дождь|nur Singular|Der Regen ist kalt.
+100116|rot|красный||Das Auto ist rot.
+100117|blau|синий||Der Himmel ist blau.
+100118|grün|зеленый||Der Apfel ist grün.
+100119|schwarz|черный||Die Katze ist schwarz.
+100120|weiß|белый||Die Wand ist weiß.
+100121|eins|один||Ich habe eins.
+100122|zwei|два||Ich habe zwei Brüder.
+100123|drei|три||Wir haben drei Kinder.
+100124|zehn|десять||Ich bin zehn Jahre alt.
+100125|hundert|сто||Das kostet hundert Euro.
+
+100126|die Staatsangehörigkeit|гражданство|Pl.: die Staatsangehörigkeiten|Meine Staatsangehörigkeit ist deutsch.
+100127|der Wohnort|место жительства|Pl.: die Wohnorte|Mein Wohnort ist Berlin.
+100128|die Postleitzahl|почтовый индекс|Pl.: die Postleitzahlen|Die Postleitzahl ist 10115.
+100129|der Familienname|фамилия|Pl.: die Familiennamen|Mein Familienname ist Müller.
+100130|die Unterschrift|подпись|Pl.: die Unterschriften|Hier ist meine Unterschrift.
+100131|das Formular|бланк, формуляр|Pl.: die Formulare|Ich fülle das Formular aus.
+100132|der Pass|паспорт|Pl.: die Pässe|Hier ist mein Pass.
+100133|der Reisepass|заграничный паспорт|Pl.: die Reisepässe|Ich brauche meinen Reisepass.
+100134|das Dokument|документ|Pl.: die Dokumente|Ich habe alle Dokumente.
+100135|die Anmeldung|регистрация|Pl.: die Anmeldungen|Die Anmeldung ist hier.
+100136|die Information|информация|Pl.: die Informationen|Ich brauche eine Information.
+100137|der Kontakt|контакт|Pl.: die Kontakte|Ich habe keinen Kontakt.
+100138|die E-Mail-Adresse|адрес электронной почты|Pl.: die E-Mail-Adressen|Meine E-Mail-Adresse ist neu.
+100139|die Nachricht|сообщение|Pl.: die Nachrichten|Ich schreibe eine Nachricht.
+100140|die Sprache|язык|Pl.: die Sprachen|Ich lerne eine neue Sprache.
+100141|die Muttersprache|родной язык|Pl.: die Muttersprachen|Meine Muttersprache ist Russisch.
+100142|die Nationalität|национальность|Pl.: die Nationalitäten|Was ist deine Nationalität?
+100143|der Geburtstag|день рождения|Pl.: die Geburtstage|Morgen ist mein Geburtstag.
+100144|der Geburtsort|место рождения|Pl.: die Geburtsorte|Mein Geburtsort ist Moskau.
+100145|das Geburtsdatum|дата рождения|Pl.: die Geburtsdaten|Mein Geburtsdatum ist der 5. Mai.
+100146|die Hausnummer|номер дома|Pl.: die Hausnummern|Die Hausnummer ist zwölf.
+100147|der Ausweis|удостоверение личности|Pl.: die Ausweise|Ich zeige meinen Ausweis.
+100148|die Karte|карта|Pl.: die Karten|Ich habe eine Karte.
+100149|die Mitgliedskarte|членская карта|Pl.: die Mitgliedskarten|Hier ist meine Mitgliedskarte.
+100150|das Foto|фотография|Pl.: die Fotos|Das Foto ist schön.
+
+100151|die Person|человек, персона|Pl.: die Personen|Das ist eine nette Person.
+100152|der Gast|гость|Pl.: die Gäste|Der Gast kommt heute.
+100153|der Gastgeber|хозяин, принимающий гостей|Pl.: die Gastgeber|Der Gastgeber ist freundlich.
+100154|die Gastgeberin|хозяйка, принимающая гостей|Pl.: die Gastgeberinnen|Die Gastgeberin kocht Suppe.
+100155|der Kollege|коллега|Pl.: die Kollegen|Mein Kollege heißt Tom.
+100156|die Kollegin|коллега (женщина)|Pl.: die Kolleginnen|Meine Kollegin ist nett.
+100157|der Chef|начальник|Pl.: die Chefs|Mein Chef ist freundlich.
+100158|die Chefin|начальница|Pl.: die Chefinnen|Die Chefin ist heute nicht da.
+100159|der Verkäufer|продавец|Pl.: die Verkäufer|Der Verkäufer hilft mir.
+100160|die Verkäuferin|продавщица|Pl.: die Verkäuferinnen|Die Verkäuferin ist freundlich.
+100161|der Fahrer|водитель|Pl.: die Fahrer|Der Fahrer wartet.
+100162|die Fahrerin|водитель (женщина)|Pl.: die Fahrerinnen|Die Fahrerin fährt den Bus.
+100163|der Koch|повар|Pl.: die Köche|Der Koch kocht Suppe.
+100164|die Köchin|повар (женщина)|Pl.: die Köchinnen|Die Köchin arbeitet im Restaurant.
+100165|die Sekretärin|секретарь|Pl.: die Sekretärinnen|Die Sekretärin arbeitet im Büro.
+100166|der Polizist|полицейский|Pl.: die Polizisten|Der Polizist hilft mir.
+100167|die Polizistin|полицейская|Pl.: die Polizistinnen|Die Polizistin ist nett.
+100168|der Student|студент|Pl.: die Studenten|Er ist Student.
+100169|die Studentin|студентка|Pl.: die Studentinnen|Sie ist Studentin.
+100170|der Praktikant|стажер|Pl.: die Praktikanten|Er ist Praktikant in der Firma.
+100171|die Praktikantin|стажерка|Pl.: die Praktikantinnen|Sie ist Praktikantin in einer Bank.
+100172|der Nachbar|сосед|Pl.: die Nachbarn|Mein Nachbar ist nett.
+100173|die Nachbarin|соседка|Pl.: die Nachbarinnen|Meine Nachbarin wohnt oben.
+100174|der Onkel|дядя|Pl.: die Onkel|Mein Onkel wohnt in Berlin.
+100175|die Tante|тетя|Pl.: die Tanten|Meine Tante ist nett.
+
+100176|der Kopf|голова|Pl.: die Köpfe|Mein Kopf tut weh.
+100177|das Gesicht|лицо|Pl.: die Gesichter|Sie hat ein schönes Gesicht.
+100178|das Auge|глаз|Pl.: die Augen|Ich habe blaue Augen.
+100179|das Ohr|ухо|Pl.: die Ohren|Mein Ohr tut weh.
+100180|die Nase|нос|Pl.: die Nasen|Meine Nase ist kalt.
+100181|der Mund|рот|Pl.: die Münder|Mach den Mund auf.
+100182|der Zahn|зуб|Pl.: die Zähne|Mein Zahn tut weh.
+100183|der Hals|шея, горло|Pl.: die Hälse|Mein Hals tut weh.
+100184|die Schulter|плечо|Pl.: die Schultern|Meine Schulter tut weh.
+100185|der Arm|рука|Pl.: die Arme|Mein Arm tut weh.
+100186|der Finger|палец руки|Pl.: die Finger|Ich habe zehn Finger.
+100187|der Bauch|живот|Pl.: die Bäuche|Mein Bauch tut weh.
+100188|der Rücken|спина|Pl.: die Rücken|Mein Rücken tut weh.
+100189|das Bein|нога|Pl.: die Beine|Mein Bein tut weh.
+100190|der Fuß|ступня, нога|Pl.: die Füße|Mein Fuß tut weh.
+100191|das Knie|колено|Pl.: die Knie|Mein Knie tut weh.
+100192|das Herz|сердце|Pl.: die Herzen|Mein Herz ist gesund.
+100193|die Krankheit|болезнь|Pl.: die Krankheiten|Er hat eine Krankheit.
+100194|die Gesundheit|здоровье|nur Singular|Gesundheit ist wichtig.
+100195|der Schmerz|боль|Pl.: die Schmerzen|Ich habe Schmerzen.
+100196|das Fieber|жар, температура|Pl.: -|Ich habe Fieber.
+100197|die Tablette|таблетка|Pl.: die Tabletten|Ich nehme eine Tablette.
+100198|die Medizin|лекарство|Pl.: die Medizinen|Ich brauche Medizin.
+100199|die Apotheke|аптека|Pl.: die Apotheken|Die Apotheke ist hier.
+100200|das Krankenhaus|больница|Pl.: die Krankenhäuser|Das Krankenhaus ist groß.
+
+100201|die Sekunde|секунда|Pl.: die Sekunden|Warte eine Sekunde.
+100202|der Kalender|календарь|Pl.: die Kalender|Der Kalender hängt an der Wand.
+100203|das Datum|дата|Pl.: die Daten|Das Datum ist heute.
+100204|der Dienstag|вторник|Pl.: die Dienstage|Am Dienstag habe ich Deutsch.
+100205|der Mittwoch|среда|Pl.: die Mittwoche|Am Mittwoch arbeite ich.
+100206|der Donnerstag|четверг|Pl.: die Donnerstage|Am Donnerstag lerne ich Deutsch.
+100207|der Samstag|суббота|Pl.: die Samstage|Am Samstag habe ich frei.
+100208|der Sonntag|воскресенье|Pl.: die Sonntage|Am Sonntag schlafe ich lange.
+100209|der Januar|январь|Pl.: die Januare|Der Januar ist kalt.
+100210|der Februar|февраль|Pl.: die Februare|Der Februar ist kurz.
+100211|der März|март|Pl.: die Märze|Im März ist es noch kalt.
+100212|der April|апрель|Pl.: die Aprile|Im April regnet es oft.
+100213|der Mai|май|Pl.: die Maie|Im Mai ist es warm.
+100214|der Juni|июнь|Pl.: die Junis|Im Juni ist es heiß.
+100215|der Juli|июль|Pl.: die Julis|Im Juli habe ich Urlaub.
+100216|der August|август|Pl.: die Auguste|Im August fahre ich ans Meer.
+100217|der September|сентябрь|Pl.: die September|Im September beginnt die Schule.
+100218|der Oktober|октябрь|Pl.: die Oktober|Im Oktober ist es kühl.
+100219|der November|ноябрь|Pl.: die November|Im November regnet es viel.
+100220|der Dezember|декабрь|Pl.: die Dezember|Im Dezember ist Weihnachten.
+100221|der Frühling|весна|Pl.: die Frühlinge|Im Frühling blühen die Blumen.
+100222|der Sommer|лето|Pl.: die Sommer|Im Sommer ist es heiß.
+100223|der Herbst|осень|Pl.: die Herbste|Im Herbst regnet es oft.
+100224|der Winter|зима|Pl.: die Winter|Im Winter ist es kalt.
+100225|der Feiertag|праздничный день|Pl.: die Feiertage|Heute ist ein Feiertag.
+
+100226|der Schrank|шкаф|Pl.: die Schränke|Der Schrank ist groß.
+100227|das Sofa|диван|Pl.: die Sofas|Das Sofa ist bequem.
+100228|der Sessel|кресло|Pl.: die Sessel|Der Sessel steht im Wohnzimmer.
+100229|das Regal|полка, стеллаж|Pl.: die Regale|Das Regal ist voll.
+100230|der Teppich|ковер|Pl.: die Teppiche|Der Teppich ist weich.
+100231|die Lampe|лампа|Pl.: die Lampen|Die Lampe ist neu.
+100232|die Decke|одеяло, потолок|Pl.: die Decken|Die Decke ist warm.
+100233|das Kissen|подушка|Pl.: die Kissen|Das Kissen ist weich.
+100234|die Gardine|занавеска|Pl.: die Gardinen|Die Gardine ist weiß.
+100235|der Spiegel|зеркало|Pl.: die Spiegel|Der Spiegel hängt im Bad.
+100236|der Boden|пол|Pl.: die Böden|Der Boden ist kalt.
+100237|die Wand|стена|Pl.: die Wände|Die Wand ist weiß.
+100238|die Treppe|лестница|Pl.: die Treppen|Die Treppe ist steil.
+100239|der Balkon|балкон|Pl.: die Balkone|Wir haben einen Balkon.
+100240|der Garten|сад|Pl.: die Gärten|Der Garten ist schön.
+100241|die Garage|гараж|Pl.: die Garagen|Das Auto steht in der Garage.
+100242|der Keller|подвал|Pl.: die Keller|Der Keller ist dunkel.
+100243|der Dachboden|чердак|Pl.: die Dachböden|Der Dachboden ist alt.
+100244|die Dusche|душ|Pl.: die Duschen|Ich gehe unter die Dusche.
+100245|die Badewanne|ванна|Pl.: die Badewannen|Die Badewanne ist weiß.
+100246|das Waschbecken|раковина|Pl.: die Waschbecken|Das Waschbecken ist sauber.
+100247|die Toilette|туалет|Pl.: die Toiletten|Wo ist die Toilette?
+100248|das Handtuch|полотенце|Pl.: die Handtücher|Das Handtuch ist nass.
+100249|die Seife|мыло|Pl.: die Seifen|Ich brauche Seife.
+100250|die Zahnbürste|зубная щетка|Pl.: die Zahnbürsten|Meine Zahnbürste ist neu.
+
+100251|der Herd|плита|Pl.: die Herde|Der Herd ist heiß.
+100252|der Backofen|духовка|Pl.: die Backöfen|Der Kuchen ist im Backofen.
+100253|die Mikrowelle|микроволновая печь|Pl.: die Mikrowellen|Ich nutze die Mikrowelle.
+100254|der Kühlschrank|холодильник|Pl.: die Kühlschränke|Die Milch ist im Kühlschrank.
+100255|die Gefriertruhe|морозильная камера|Pl.: die Gefriertruhen|Das Eis ist in der Gefriertruhe.
+100256|die Spüle|кухонная мойка|Pl.: die Spülen|Das Geschirr ist in der Spüle.
+100257|der Wasserhahn|водопроводный кран|Pl.: die Wasserhähne|Der Wasserhahn tropft.
+100258|der Topf|кастрюля|Pl.: die Töpfe|Die Suppe ist im Topf.
+100259|die Pfanne|сковорода|Pl.: die Pfannen|Ich brate das Ei in der Pfanne.
+100260|der Teller|тарелка|Pl.: die Teller|Der Teller ist sauber.
+100261|die Schüssel|миска|Pl.: die Schüsseln|Der Salat ist in der Schüssel.
+100262|das Glas|стакан|Pl.: die Gläser|Ich trinke ein Glas Wasser.
+100263|die Tasse|чашка|Pl.: die Tassen|Ich trinke eine Tasse Tee.
+100264|die Flasche|бутылка|Pl.: die Flaschen|Die Flasche ist leer.
+100265|das Messer|нож|Pl.: die Messer|Das Messer ist scharf.
+100266|die Gabel|вилка|Pl.: die Gabeln|Die Gabel liegt links.
+100267|der Löffel|ложка|Pl.: die Löffel|Ich esse die Suppe mit dem Löffel.
+100268|das Schneidebrett|разделочная доска|Pl.: die Schneidebretter|Das Schneidebrett ist aus Holz.
+100269|der Schwamm|губка|Pl.: die Schwämme|Der Schwamm ist nass.
+100270|das Geschirr|посуда|nur Singular|Das Geschirr ist sauber.
+100271|die Waschmaschine|стиральная машина|Pl.: die Waschmaschinen|Die Waschmaschine läuft.
+100272|der Geschirrspüler|посудомоечная машина|Pl.: die Geschirrspüler|Der Geschirrspüler ist neu.
+100273|der Staubsauger|пылесос|Pl.: die Staubsauger|Ich nutze den Staubsauger.
+100274|der Besen|метла|Pl.: die Besen|Der Besen steht in der Ecke.
+100275|der Eimer|ведро|Pl.: die Eimer|Der Eimer ist voll.
+
+100276|die Banane|банан|Pl.: die Bananen|Ich esse eine Banane.
+100277|die Birne|груша|Pl.: die Birnen|Die Birne ist süß.
+100278|die Orange|апельсин|Pl.: die Orangen|Ich esse eine Orange.
+100279|die Zitrone|лимон|Pl.: die Zitronen|Die Zitrone ist sauer.
+100280|die Erdbeere|клубника|Pl.: die Erdbeeren|Ich mag Erdbeeren.
+100281|die Kirsche|вишня|Pl.: die Kirschen|Die Kirschen sind rot.
+100282|die Traube|виноградина|Pl.: die Trauben|Die Trauben sind süß.
+100283|der Pfirsich|персик|Pl.: die Pfirsiche|Der Pfirsich ist süß.
+100284|die Pflaume|слива|Pl.: die Pflaumen|Die Pflaume ist blau.
+100285|die Melone|дыня|Pl.: die Melonen|Die Melone ist groß.
+100286|die Kartoffel|картофель|Pl.: die Kartoffeln|Ich koche Kartoffeln.
+100287|die Tomate|помидор|Pl.: die Tomaten|Die Tomate ist rot.
+100288|die Gurke|огурец|Pl.: die Gurken|Die Gurke ist grün.
+100289|die Karotte|морковь|Pl.: die Karotten|Ich esse eine Karotte.
+100290|die Zwiebel|лук|Pl.: die Zwiebeln|Ich schneide die Zwiebel.
+100291|der Knoblauch|чеснок|nur Singular|Ich mag Knoblauch.
+100292|der Salat|салат|Pl.: die Salate|Ich esse einen Salat.
+100293|der Kohl|капуста|nur Singular|Der Kohl ist grün.
+100294|der Spinat|шпинат|nur Singular|Ich mag Spinat.
+100295|die Bohne|фасоль|Pl.: die Bohnen|Ich esse grüne Bohnen.
+100296|die Erbse|горох|Pl.: die Erbsen|Die Erbsen sind grün.
+100297|der Mais|кукуруза|nur Singular|Ich esse gern Mais.
+100298|der Pilz|гриб|Pl.: die Pilze|Ich esse gern Pilze.
+100299|die Paprika|сладкий перец|Pl.: die Paprikas|Die Paprika ist rot.
+100300|die Zucchini|кабачок|Pl.: die Zucchini|Die Zucchini ist grün.
+
+100301|der Käse|сыр|Pl.: die Käse|Ich esse gern Käse.
+100302|die Butter|сливочное масло|nur Singular|Ich brauche Butter.
+100303|der Joghurt|йогурт|Pl.: die Joghurts|Ich esse einen Joghurt.
+100304|die Sahne|сливки|nur Singular|Ich trinke Kaffee mit Sahne.
+100305|das Ei|яйцо|Pl.: die Eier|Ich esse ein Ei.
+100306|das Mehl|мука|nur Singular|Ich brauche Mehl.
+100307|der Zucker|сахар|nur Singular|Ich nehme Zucker im Tee.
+100308|das Salz|соль|nur Singular|Die Suppe braucht Salz.
+100309|der Pfeffer|перец|nur Singular|Ich brauche Pfeffer.
+100310|das Öl|масло|Pl.: die Öle|Ich kaufe Öl.
+100311|der Honig|мед|nur Singular|Ich esse Honig.
+100312|die Marmelade|джем|Pl.: die Marmeladen|Ich esse Brot mit Marmelade.
+100313|die Wurst|колбаса|Pl.: die Würste|Ich esse eine Wurst.
+100314|der Schinken|ветчина|Pl.: die Schinken|Ich esse Brot mit Schinken.
+100315|die Suppe|суп|Pl.: die Suppen|Die Suppe ist heiß.
+100316|der Kuchen|пирог|Pl.: die Kuchen|Der Kuchen schmeckt gut.
+100317|die Torte|торт|Pl.: die Torten|Die Torte ist süß.
+100318|das Eis|мороженое|nur Singular|Ich esse gern Eis.
+100319|die Schokolade|шоколад|Pl.: die Schokoladen|Ich mag Schokolade.
+100320|der Reis|рис|nur Singular|Ich koche Reis.
+100321|die Nudel|макаронина|Pl.: die Nudeln|Die Nudel ist lang.
+100322|die Pizza|пицца|Pl.: die Pizzen|Ich esse eine Pizza.
+100323|das Sandwich|сэндвич|Pl.: die Sandwiches|Ich esse ein Sandwich.
+100324|das Frühstücksbrot|хлеб для завтрака|Pl.: die Frühstücksbrote|Das Frühstücksbrot ist lecker.
+100325|das Gebäck|выпечка|nur Singular|Das Gebäck ist frisch.
+
+100326|das Mineralwasser|минеральная вода|nur Singular|Ich trinke Mineralwasser.
+100327|der Saft|сок|Pl.: die Säfte|Ich trinke Saft.
+100328|der Orangensaft|апельсиновый сок|Pl.: die Orangensäfte|Ich trinke einen Orangensaft.
+100329|der Apfelsaft|яблочный сок|Pl.: die Apfelsäfte|Ich trinke einen Apfelsaft.
+100330|die Limonade|лимонад|Pl.: die Limonaden|Ich trinke eine Limonade.
+100331|das Bier|пиво|Pl.: die Biere|Ich trinke ein Bier.
+100332|der Wein|вино|Pl.: die Weine|Er trinkt ein Glas Wein.
+100333|der Kakao|какао|nur Singular|Ich trinke Kakao.
+100334|die Speisekarte|меню|Pl.: die Speisekarten|Die Speisekarte, bitte.
+100335|die Rechnung|счет|Pl.: die Rechnungen|Die Rechnung, bitte.
+100336|der Kellner|официант|Pl.: die Kellner|Der Kellner bringt das Essen.
+100337|die Kellnerin|официантка|Pl.: die Kellnerinnen|Die Kellnerin ist freundlich.
+100338|die Bestellung|заказ|Pl.: die Bestellungen|Die Bestellung ist fertig.
+100339|die Portion|порция|Pl.: die Portionen|Ich nehme eine Portion Pommes.
+100340|das Besteck|столовые приборы|Pl.: die Bestecke|Das Besteck liegt auf dem Tisch.
+100341|der Imbiss|закусочная, перекус|Pl.: die Imbisse|Ich esse einen Imbiss.
+100342|das Restaurant|ресторан|Pl.: die Restaurants|Das Restaurant ist heute offen.
+100343|das Cafe|кафе|Pl.: die Cafés|Wir trinken Kaffee im Café.
+100344|die Bäckerei|пекарня|Pl.: die Bäckereien|Die Bäckerei verkauft frisches Brot.
+100345|die Metzgerei|мясная лавка|Pl.: die Metzgereien|Die Metzgerei ist neben der Bank.
+100346|der Hunger|голод|nur Singular|Ich habe großen Hunger.
+100347|der Durst|жажда|nur Singular|Ich habe Durst und trinke Wasser.
+100348|der Geschmack|вкус|Pl.: die Geschmäcker|Der Geschmack von dem Kuchen ist gut.
+100349|das Trinkgeld|чаевые|Pl.: die Trinkgelder|Der Kellner bekommt ein Trinkgeld.
+100350|das Menü|комплексное меню|Pl.: die Menüs|Ich nehme das Menü mit Suppe.
+
+100351|das Hemd|рубашка|Pl.: die Hemden|Das Hemd ist weiß.
+100352|die Bluse|блузка|Pl.: die Blusen|Die Bluse ist neu.
+100353|das T-Shirt|футболка|Pl.: die T-Shirts|Das T-Shirt ist blau.
+100354|der Pullover|свитер|Pl.: die Pullover|Der Pullover ist warm.
+100355|die Jacke|куртка|Pl.: die Jacken|Die Jacke hängt im Flur.
+100356|der Mantel|пальто|Pl.: die Mäntel|Der Mantel ist sehr lang.
+100357|die Hose|брюки|Pl.: die Hosen|Die Hose ist zu groß.
+100358|die Jeans|джинсы|Pl.: die Jeans|Ich trage eine Jeans.
+100359|der Rock|юбка|Pl.: die Röcke|Der Rock ist kurz.
+100360|das Kleid|платье|Pl.: die Kleider|Das Kleid ist rot.
+100361|der Anzug|костюм|Pl.: die Anzüge|Mein Vater trägt einen Anzug.
+100362|der Schuh|ботинок, туфля|Pl.: die Schuhe|Der Schuh ist neu.
+100363|der Stiefel|сапог|Pl.: die Stiefel|Im Winter trage ich Stiefel.
+100364|die Socke|носок|Pl.: die Socken|Die Socke ist warm.
+100365|der Strumpf|чулок|Pl.: die Strümpfe|Der Strumpf ist schwarz.
+100366|der Hut|шляпа|Pl.: die Hüte|Der Hut ist groß.
+100367|die Mütze|шапка|Pl.: die Mützen|Im Winter trage ich eine Mütze.
+100368|der Schal|шарф|Pl.: die Schals|Der Schal ist lang.
+100369|der Handschuh|перчатка|Pl.: die Handschuhe|Ich suche meinen Handschuh.
+100370|der Gürtel|ремень|Pl.: die Gürtel|Der Gürtel ist aus Leder.
+100371|die Tasche|сумка|Pl.: die Taschen|Die Tasche ist schwer.
+100372|der Rucksack|рюкзак|Pl.: die Rucksäcke|Der Rucksack ist blau.
+100373|der Regenschirm|зонт|Pl.: die Regenschirme|Ich nehme einen Regenschirm mit.
+100374|die Brille|очки|Pl.: die Brillen|Ich brauche eine Brille.
+100375|der Ring|кольцо|Pl.: die Ringe|Der Ring ist aus Gold.
+
+100376|der Markt|рынок|Pl.: die Märkte|Der Markt ist am Samstag.
+100377|der Einkaufswagen|тележка для покупок|Pl.: die Einkaufswagen|Der Einkaufswagen ist voll.
+100378|der Einkaufskorb|корзина для покупок|Pl.: die Einkaufskörbe|Ich nehme einen Einkaufskorb.
+100379|die Kasse|касса|Pl.: die Kassen|Die Kasse ist dort.
+100380|der Kassierer|кассир|Pl.: die Kassierer|Der Kassierer ist freundlich.
+100381|der Bon|чек|Pl.: die Bons|Ich brauche den Bon.
+100382|der Kassenbon|кассовый чек|Pl.: die Kassenbons|Der Kassenbon ist im Beutel.
+100383|der Rabatt|скидка|Pl.: die Rabatte|Es gibt heute einen Rabatt.
+100384|das Sonderangebot|специальное предложение|Pl.: die Sonderangebote|Das Sonderangebot ist sehr billig.
+100385|die Größe|размер|Pl.: die Größen|Welche Größe haben Sie?
+100386|die Farbe|цвет|Pl.: die Farben|Die Farbe gefällt mir.
+100387|der Umtausch|обмен товара|Pl.: die Umtäusche|Der Umtausch ist kostenlos.
+100388|das Wechselgeld|сдача|nur Singular|Ich bekomme noch Wechselgeld.
+100389|der Geldschein|банкнота|Pl.: die Geldscheine|Ich habe einen Geldschein.
+100390|die Münze|монета|Pl.: die Münzen|Ich habe eine Münze.
+100391|das Portemonnaie|портмоне|Pl.: die Portemonnaies|Mein Portemonnaie ist leer.
+100392|die Geldbörse|кошелек|Pl.: die Geldbörsen|Die Geldbörse liegt auf dem Tisch.
+100393|der Kunde|покупатель|Pl.: die Kunden|Der Kunde wartet an der Kasse.
+100394|die Kundin|покупательница|Pl.: die Kundinnen|Die Kundin kauft ein Kleid.
+100395|das Einkaufszentrum|торговый центр|Pl.: die Einkaufszentren|Das Einkaufszentrum ist groß.
+100396|das Kaufhaus|универмаг|Pl.: die Kaufhäuser|Das Kaufhaus ist in der Stadt.
+100397|die Abteilung|отдел|Pl.: die Abteilungen|Die Abteilung ist im zweiten Stock.
+100398|das Schaufenster|витрина|Pl.: die Schaufenster|Das Schaufenster ist schön.
+100399|die Umkleidekabine|примерочная|Pl.: die Umkleidekabinen|Die Umkleidekabine ist frei.
+100400|das Etikett|этикетка|Pl.: die Etiketten|Auf dem Etikett steht der Preis.
+
+100401|die Fahrkarte|билет на транспорт|Pl.: die Fahrkarten|Ich kaufe eine Fahrkarte.
+100402|das Ticket|билет|Pl.: die Tickets|Ich habe ein Ticket.
+100403|der Fahrplan|расписание транспорта|Pl.: die Fahrpläne|Der Fahrplan hängt an der Haltestelle.
+100404|die Abfahrt|отправление|Pl.: die Abfahrten|Die Abfahrt ist um acht Uhr.
+100405|die Ankunft|прибытие|Pl.: die Ankünfte|Die Ankunft ist um zehn Uhr.
+100406|die Verspätung|задержка|Pl.: die Verspätungen|Der Zug hat Verspätung.
+100407|die Reise|путешествие|Pl.: die Reisen|Die Reise ist lang.
+100408|die Fahrt|поездка|Pl.: die Fahrten|Die Fahrt dauert eine Stunde.
+100409|die Richtung|направление|Pl.: die Richtungen|Das ist die richtige Richtung.
+100410|der Weg|дорога, путь|Pl.: die Wege|Wo ist der Weg zum Bahnhof?
+100411|die Kreuzung|перекресток|Pl.: die Kreuzungen|An der Kreuzung gehen Sie links.
+100412|die Ampel|светофор|Pl.: die Ampeln|Die Ampel ist rot.
+100413|die Brücke|мост|Pl.: die Brücken|Die Brücke ist alt.
+100414|der Flughafen|аэропорт|Pl.: die Flughäfen|Der Flughafen ist groß.
+100415|der Flug|рейс, полет|Pl.: die Flüge|Der Flug dauert zwei Stunden.
+100416|das Flugzeug|самолет|Pl.: die Flugzeuge|Das Flugzeug landet um elf Uhr.
+100417|der Flugsteig|выход на посадку|Pl.: die Flugsteige|Der Flugsteig ist Nummer fünf.
+100418|der Bahnsteig|платформа|Pl.: die Bahnsteige|Der Zug steht am Bahnsteig zwei.
+100419|der Fahrgast|пассажир|Pl.: die Fahrgäste|Der Fahrgast steigt ein.
+100420|die U-Bahn|метро|Pl.: die U-Bahnen|Ich fahre mit der U-Bahn.
+100421|die S-Bahn|городская электричка|Pl.: die S-Bahnen|Die S-Bahn kommt gleich.
+100422|die Straßenbahn|трамвай|Pl.: die Straßenbahnen|Die Straßenbahn fährt zum Markt.
+100423|das Taxi|такси|Pl.: die Taxis|Das Taxi wartet vor dem Haus.
+100424|der Fahrkartenautomat|автомат по продаже билетов|Pl.: die Fahrkartenautomaten|Der Fahrkartenautomat ist kaputt.
+100425|der Stadtplan|план города|Pl.: die Stadtpläne|Ich brauche einen Stadtplan.
+
+100426|das Hotel|отель|Pl.: die Hotels|Das Hotel ist sehr schön.
+100427|die Rezeption|стойка регистрации|Pl.: die Rezeptionen|Die Rezeption ist unten.
+100428|die Reservierung|бронирование|Pl.: die Reservierungen|Ich habe eine Reservierung.
+100429|das Einzelzimmer|одноместный номер|Pl.: die Einzelzimmer|Ich möchte ein Einzelzimmer.
+100430|das Doppelzimmer|двухместный номер|Pl.: die Doppelzimmer|Wir nehmen ein Doppelzimmer.
+100431|die Jugendherberge|молодежный хостел|Pl.: die Jugendherbergen|Die Jugendherberge ist billig.
+100432|die Pension|пансион|Pl.: die Pensionen|Die Pension ist klein und nett.
+100433|die Unterkunft|жилье, размещение|Pl.: die Unterkünfte|Die Unterkunft ist gut.
+100434|der Koffer|чемодан|Pl.: die Koffer|Der Koffer ist schwer.
+100435|der Kofferraum|багажник|Pl.: die Kofferräume|Der Koffer ist im Kofferraum.
+100436|das Gepäck|багаж|nur Singular|Mein Gepäck ist schwer.
+100437|die Reisegruppe|туристическая группа|Pl.: die Reisegruppen|Die Reisegruppe geht ins Museum.
+100438|die Sehenswürdigkeit|достопримечательность|Pl.: die Sehenswürdigkeiten|Die Stadt hat viele Sehenswürdigkeiten.
+100439|das Museum|музей|Pl.: die Museen|Das Museum ist heute offen.
+100440|das Schwimmbad|бассейн|Pl.: die Schwimmbäder|Das Schwimmbad ist groß.
+100441|der Eintritt|вход, плата за вход|nur Singular|Der Eintritt ist frei.
+100442|die Eintrittskarte|входной билет|Pl.: die Eintrittskarten|Ich kaufe zwei Eintrittskarten.
+100443|der Stadtführer|путеводитель|Pl.: die Stadtführer|Der Stadtführer ist sehr nützlich.
+100444|die Reiseleitung|туристическое сопровождение|nur Singular|Die Reiseleitung spricht Deutsch.
+100445|die Landkarte|карта местности|Pl.: die Landkarten|Ich habe eine Landkarte.
+100446|die Grenze|граница|Pl.: die Grenzen|Die Grenze ist nah.
+100447|der Zoll|таможня|nur Singular|Am Zoll zeige ich meinen Pass.
+100448|der Campingplatz|кемпинг|Pl.: die Campingplätze|Der Campingplatz ist am See.
+100449|das Zelt|палатка|Pl.: die Zelte|Das Zelt ist klein.
+100450|die Ferienwohnung|квартира для отдыха|Pl.: die Ferienwohnungen|Wir mieten eine Ferienwohnung.
+
+100451|die Post|почта|nur Singular|Die Post ist neben der Bank.
+100452|die Bank|банк|Pl.: die Banken|Die Bank ist geschlossen.
+100453|die Polizei|полиция|nur Singular|Die Polizei kommt schnell.
+100454|die Feuerwehr|пожарная служба|Pl.: die Feuerwehren|Die Feuerwehr ist schnell da.
+100455|die Kirche|церковь|Pl.: die Kirchen|Die Kirche ist sehr alt.
+100456|das Rathaus|мэрия|Pl.: die Rathäuser|Das Rathaus ist im Zentrum.
+100457|die Bibliothek|библиотека|Pl.: die Bibliotheken|Ich lese in der Bibliothek.
+100458|das Kino|кинотеатр|Pl.: die Kinos|Wir gehen ins Kino.
+100459|das Theater|театр|Pl.: die Theater|Das Theater beginnt um acht Uhr.
+100460|die Universität|университет|Pl.: die Universitäten|Meine Schwester geht auf die Universität.
+100461|der Kindergarten|детский сад|Pl.: die Kindergärten|Das Kind geht in den Kindergarten.
+100462|die Kita|детский сад|Pl.: die Kitas|Die Kita ist neben dem Park.
+100463|der Park|парк|Pl.: die Parks|Der Park ist schön.
+100464|der Spielplatz|детская площадка|Pl.: die Spielplätze|Die Kinder sind auf dem Spielplatz.
+100465|die Ecke|угол|Pl.: die Ecken|Das Café ist an der Ecke.
+100466|das Zentrum|центр|Pl.: die Zentren|Das Zentrum ist nicht weit.
+100467|die Innenstadt|центр города|Pl.: die Innenstädte|Die Innenstadt ist laut.
+100468|die Vorstadt|пригород|Pl.: die Vorstädte|Wir wohnen in der Vorstadt.
+100469|der Platz|площадь, место|Pl.: die Plätze|Der Platz ist groß.
+100470|die Haltestelle|остановка|Pl.: die Haltestellen|Die Haltestelle ist hier.
+100471|die Postkarte|открытка|Pl.: die Postkarten|Ich schreibe eine Postkarte.
+100472|der Briefkasten|почтовый ящик|Pl.: die Briefkästen|Der Briefkasten ist gelb.
+100473|die Telefonzelle|телефонная будка|Pl.: die Telefonzellen|Die Telefonzelle ist alt.
+100474|das Amt|государственное учреждение|Pl.: die Ämter|Das Amt ist am Montag offen.
+100475|das Gebäude|здание|Pl.: die Gebäude|Das Gebäude ist sehr hoch.
+
+100476|der Unterricht|урок, занятия|nur Singular|Der Unterricht beginnt um acht Uhr.
+100477|die Klasse|класс|Pl.: die Klassen|Unsere Klasse ist groß.
+100478|das Klassenzimmer|классная комната|Pl.: die Klassenzimmer|Das Klassenzimmer ist hell.
+100479|der Kurs|курс|Pl.: die Kurse|Ich besuche einen Deutschkurs.
+100480|die Prüfung|экзамен|Pl.: die Prüfungen|Morgen habe ich eine Prüfung.
+100481|die Aufgabe|задание|Pl.: die Aufgaben|Die Aufgabe ist leicht.
+100482|die Frage|вопрос|Pl.: die Fragen|Ich habe eine Frage.
+100483|die Antwort|ответ|Pl.: die Antworten|Die Antwort ist richtig.
+100484|das Wort|слово|Pl.: die Wörter|Das Wort ist neu.
+100485|der Satz|предложение|Pl.: die Sätze|Der Satz ist kurz.
+100486|der Text|текст|Pl.: die Texte|Der Text ist leicht.
+100487|der Buchstabe|буква|Pl.: die Buchstaben|Der Buchstabe ist groß.
+100488|das Alphabet|алфавит|Pl.: die Alphabete|Das Alphabet hat 26 Buchstaben.
+100489|das Heft|тетрадь|Pl.: die Hefte|Mein Heft liegt auf dem Tisch.
+100490|der Bleistift|карандаш|Pl.: die Bleistifte|Ich schreibe mit einem Bleistift.
+100491|der Kugelschreiber|шариковая ручка|Pl.: die Kugelschreiber|Der Kugelschreiber ist blau.
+100492|der Kuli|ручка|Pl.: die Kulis|Ich brauche einen Kuli.
+100493|der Radiergummi|ластик|Pl.: die Radiergummis|Der Radiergummi ist klein.
+100494|das Lineal|линейка|Pl.: die Lineale|Das Lineal ist lang.
+100495|die Schere|ножницы|Pl.: die Scheren|Die Schere liegt auf dem Tisch.
+100496|der Marker|маркер|Pl.: die Marker|Der Marker ist rot.
+100497|das Papier|бумага|nur Singular|Ich brauche Papier.
+100498|die Tafel|доска|Pl.: die Tafeln|Der Lehrer schreibt an die Tafel.
+100499|das Zeugnis|табель, свидетельство|Pl.: die Zeugnisse|Das Zeugnis ist gut.
+100500|die Note|оценка|Pl.: die Noten|Die Note ist sehr gut.
+
+100501|die Firma|фирма|Pl.: die Firmen|Die Firma ist groß.
+100502|das Büro|офис|Pl.: die Büros|Das Büro ist im ersten Stock.
+100503|der Arbeitsplatz|рабочее место|Pl.: die Arbeitsplätze|Mein Arbeitsplatz ist hier.
+100504|der Arbeitsvertrag|трудовой договор|Pl.: die Arbeitsverträge|Der Arbeitsvertrag ist neu.
+100505|die Arbeitssuche|поиск работы|nur Singular|Die Arbeitssuche ist schwer.
+100506|die Bewerbung|заявление о приеме на работу|Pl.: die Bewerbungen|Ich schreibe eine Bewerbung.
+100507|der Lebenslauf|резюме, биография|Pl.: die Lebensläufe|Mein Lebenslauf ist kurz.
+100508|das Gehalt|зарплата|Pl.: die Gehälter|Das Gehalt ist gut.
+100509|der Lohn|оплата труда|Pl.: die Löhne|Der Lohn kommt am Monatsende.
+100510|die Pause|перерыв|Pl.: die Pausen|Wir machen eine Pause.
+100511|die Mittagspause|обеденный перерыв|Pl.: die Mittagspausen|Die Mittagspause dauert eine Stunde.
+100512|die Besprechung|совещание|Pl.: die Besprechungen|Die Besprechung beginnt um neun Uhr.
+100513|das Gespräch|разговор, беседа|Pl.: die Gespräche|Wir haben ein Gespräch.
+100514|der Termin|встреча, назначенное время|Pl.: die Termine|Ich habe heute einen Termin.
+100515|der Urlaub|отпуск|Pl.: die Urlaube|Mein Urlaub beginnt morgen.
+100516|die Ferien|каникулы|nur Plural|Die Ferien beginnen im Juli.
+100517|die Schicht|рабочая смена|Pl.: die Schichten|Meine Schicht beginnt um sechs Uhr.
+100518|die Kantine|столовая|Pl.: die Kantinen|Wir essen in der Kantine.
+100519|die Ausbildung|профессиональное обучение|Pl.: die Ausbildungen|Ich mache eine Ausbildung.
+100520|der Mitarbeiter|сотрудник|Pl.: die Mitarbeiter|Der Mitarbeiter ist nett.
+100521|die Mitarbeiterin|сотрудница|Pl.: die Mitarbeiterinnen|Die Mitarbeiterin hilft mir.
+100522|der Arbeitgeber|работодатель|Pl.: die Arbeitgeber|Mein Arbeitgeber ist freundlich.
+100523|die Arbeitszeit|рабочее время|Pl.: die Arbeitszeiten|Die Arbeitszeit ist von acht bis vier.
+100524|die Arbeitsstelle|рабочее место, должность|Pl.: die Arbeitsstellen|Ich suche eine Arbeitsstelle.
+100525|der Berufsschüler|учащийся профессиональной школы|Pl.: die Berufsschüler|Der Berufsschüler lernt viel.
+
+100526|die Freizeit|свободное время|nur Singular|Ich habe am Sonntag Freizeit.
+100527|das Hobby|увлечение|Pl.: die Hobbys|Mein Hobby ist Musik.
+100528|die Musik|музыка|nur Singular|Ich höre gern Musik.
+100529|das Lied|песня|Pl.: die Lieder|Das Lied ist schön.
+100530|der Film|фильм|Pl.: die Filme|Der Film beginnt um acht Uhr.
+100531|das Fernsehen|телевидение|nur Singular|Ich sehe abends fern, das Fernsehen ist lustig.
+100532|das Radio|радио|Pl.: die Radios|Das Radio ist an.
+100533|die Zeitung|газета|Pl.: die Zeitungen|Ich lese die Zeitung.
+100534|die Zeitschrift|журнал|Pl.: die Zeitschriften|Die Zeitschrift ist neu.
+100535|die Geschichte|история, рассказ|Pl.: die Geschichten|Die Geschichte ist lustig.
+100536|das Konzert|концерт|Pl.: die Konzerte|Das Konzert ist am Freitag.
+100537|die Ausstellung|выставка|Pl.: die Ausstellungen|Die Ausstellung ist im Museum.
+100538|das Spiel|игра|Pl.: die Spiele|Das Spiel ist lustig.
+100539|das Spielzeug|игрушка|Pl.: die Spielzeuge|Das Spielzeug liegt auf dem Boden.
+100540|das Geschenk|подарок|Pl.: die Geschenke|Das Geschenk ist für dich.
+100541|die Party|вечеринка|Pl.: die Partys|Die Party beginnt um acht Uhr.
+100542|das Fest|праздник|Pl.: die Feste|Das Fest ist am Samstag.
+100543|die Einladung|приглашение|Pl.: die Einladungen|Ich bekomme eine Einladung.
+100544|der Besuch|визит|Pl.: die Besuche|Der Besuch kommt heute.
+100545|der Spaziergang|прогулка|Pl.: die Spaziergänge|Wir machen einen Spaziergang.
+100546|der Ausflug|экскурсия, поездка|Pl.: die Ausflüge|Wir machen am Sonntag einen Ausflug.
+100547|die Fotografie|фотография как искусство|nur Singular|Die Fotografie ist mein Hobby.
+100548|die Kamera|камера|Pl.: die Kameras|Die Kamera ist neu.
+100549|der Fotoapparat|фотоаппарат|Pl.: die Fotoapparate|Der Fotoapparat ist klein.
+100550|das Bild|изображение, картина|Pl.: die Bilder|Das Bild hängt an der Wand.
+
+100551|der Sport|спорт|nur Singular|Ich mache gern Sport.
+100552|der Fußball|футбол|nur Singular|Wir spielen Fußball.
+100553|das Training|тренировка|Pl.: die Trainings|Das Training beginnt um sechs Uhr.
+100554|der Trainer|тренер|Pl.: die Trainer|Der Trainer ist streng.
+100555|die Mannschaft|команда|Pl.: die Mannschaften|Unsere Mannschaft gewinnt.
+100556|der Verein|клуб, общество|Pl.: die Vereine|Ich bin in einem Verein.
+100557|das Schwimmen|плавание|nur Singular|Schwimmen ist gesund.
+100558|das Fahrrad|велосипед|Pl.: die Fahrräder|Mein Fahrrad ist neu.
+100559|der Ball|мяч|Pl.: die Bälle|Der Ball ist rund.
+100560|die Turnhalle|спортивный зал|Pl.: die Turnhallen|Die Turnhalle ist groß.
+100561|das Fitnessstudio|фитнес-зал|Pl.: die Fitnessstudios|Ich gehe ins Fitnessstudio.
+100562|der Sportplatz|спортивная площадка|Pl.: die Sportplätze|Der Sportplatz ist neben der Schule.
+100563|die Sportart|вид спорта|Pl.: die Sportarten|Welche Sportart magst du?
+100564|das Tennis|теннис|nur Singular|Ich spiele gern Tennis.
+100565|der Volleyball|волейбол|nur Singular|Wir spielen Volleyball.
+100566|der Basketball|баскетбол|nur Singular|Er spielt gut Basketball.
+100567|das Rennen|гонка|Pl.: die Rennen|Das Rennen beginnt gleich.
+100568|der Wettkampf|соревнование|Pl.: die Wettkämpfe|Der Wettkampf ist am Sonntag.
+100569|die Bewegung|движение|Pl.: die Bewegungen|Bewegung ist gesund.
+100570|der Spieler|игрок|Pl.: die Spieler|Der Spieler ist schnell.
+100571|die Spielerin|игрок (женщина)|Pl.: die Spielerinnen|Die Spielerin ist sehr gut.
+100572|die Sporthalle|спортивный зал|Pl.: die Sporthallen|Die Sporthalle ist neu.
+100573|der Sieger|победитель|Pl.: die Sieger|Der Sieger bekommt einen Pokal.
+100574|die Siegerin|победительница|Pl.: die Siegerinnen|Die Siegerin freut sich sehr.
+100575|das Turnier|турнир|Pl.: die Turniere|Das Turnier ist am Samstag.
+
+100576|der Himmel|небо|nur Singular|Der Himmel ist blau.
+100577|die Wolke|облако|Pl.: die Wolken|Am Himmel ist eine Wolke.
+100578|der Wind|ветер|Pl.: die Winde|Heute ist der Wind kalt.
+100579|der Schnee|снег|nur Singular|Im Winter gibt es Schnee.
+100580|das Gewitter|гроза|Pl.: die Gewitter|Heute Abend gibt es ein Gewitter.
+100581|der Sturm|шторм, буря|Pl.: die Stürme|Der Sturm ist sehr stark.
+100582|die Temperatur|температура|Pl.: die Temperaturen|Die Temperatur ist heute hoch.
+100583|das Grad|градус|Pl.: die Grade|Es sind zehn Grad.
+100584|der Sonnenschein|солнечный свет|nur Singular|Wir genießen den Sonnenschein.
+100585|der Schatten|тень|Pl.: die Schatten|Ich sitze im Schatten.
+100586|der Baum|дерево|Pl.: die Bäume|Der Baum ist sehr groß.
+100587|die Blume|цветок|Pl.: die Blumen|Ich kaufe eine Blume.
+100588|das Gras|трава|nur Singular|Das Gras ist grün.
+100589|der Wald|лес|Pl.: die Wälder|Wir gehen im Wald spazieren.
+100590|der Berg|гора|Pl.: die Berge|Der Berg ist hoch.
+100591|der See|озеро|Pl.: die Seen|Wir schwimmen im See.
+100592|der Fluss|река|Pl.: die Flüsse|Der Fluss ist lang.
+100593|das Meer|море|Pl.: die Meere|Ich fahre ans Meer.
+100594|der Strand|пляж|Pl.: die Strände|Der Strand ist sehr schön.
+100595|die Insel|остров|Pl.: die Inseln|Wir machen Urlaub auf einer Insel.
+100596|das Tier|животное|Pl.: die Tiere|Ich mag Tiere.
+100597|der Hund|собака|Pl.: die Hunde|Der Hund spielt im Garten.
+100598|die Katze|кошка|Pl.: die Katzen|Die Katze schläft auf dem Sofa.
+100599|der Vogel|птица|Pl.: die Vögel|Der Vogel singt am Morgen.
+100600|das Pferd|лошадь|Pl.: die Pferde|Das Pferd ist braun.
+
+100601|freundlich|дружелюбный||Der Lehrer ist freundlich.
+100602|nett|милый, приятный||Meine Nachbarin ist sehr nett.
+100603|höflich|вежливый||Der Junge ist höflich.
+100604|unfreundlich|недружелюбный||Der Verkäufer ist unfreundlich.
+100605|laut|громкий||Die Musik ist zu laut.
+100606|leise|тихий||Bitte sei leise.
+100607|ruhig|спокойный||Das Kind ist ruhig.
+100608|hell|светлый||Das Zimmer ist hell.
+100609|dunkel|темный||Es ist dunkel im Keller.
+100610|sauber|чистый||Die Küche ist sauber.
+100611|schmutzig|грязный||Die Schuhe sind schmutzig.
+100612|voll|полный||Der Bus ist voll.
+100613|leer|пустой||Das Glas ist leer.
+100614|offen|открытый||Das Fenster ist offen.
+100615|geschlossen|закрытый||Das Geschäft ist geschlossen.
+100616|wichtig|важный||Das ist sehr wichtig.
+100617|richtig|правильный||Die Antwort ist richtig.
+100618|falsch|неправильный||Das ist leider falsch.
+100619|fertig|готовый||Das Essen ist fertig.
+100620|kaputt|сломанный||Mein Handy ist kaputt.
+100621|bequem|удобный||Der Stuhl ist bequem.
+100622|teuer|дорогой||Das Auto ist teuer.
+100623|billig|дешевый||Das Brot ist billig.
+100624|kostenlos|бесплатный||Der Kaffee ist kostenlos.
+100625|möglich|возможный||Das ist leider nicht möglich.
+
+100626|jung|молодой|Komp.: jünger|Meine Schwester ist jung.
+100627|erwachsen|взрослый||Er ist schon erwachsen.
+100628|verheiratet|женатый, замужняя||Sie ist verheiratet.
+100629|ledig|неженатый, незамужняя||Mein Bruder ist ledig.
+100630|allein|один, в одиночестве||Ich wohne allein.
+100631|bekannt|знакомый, известный||Das Lied ist bekannt.
+100632|unbekannt|незнакомый, неизвестный||Der Mann ist mir unbekannt.
+100633|gesund|здоровый|Komp.: gesünder|Obst ist gesund.
+100634|krank|больной|Komp.: kränker|Er ist krank und bleibt zu Hause.
+100635|müde|уставший||Ich bin heute sehr müde.
+100636|wach|бодрствующий||Ich bin schon wach.
+100637|hungrig|голодный||Ich bin hungrig.
+100638|durstig|испытывающий жажду||Das Kind ist durstig.
+100639|glücklich|счастливый||Wir sind glücklich.
+100640|traurig|грустный||Sie ist heute traurig.
+100641|böse|сердитый||Der Hund ist nicht böse.
+100642|nervös|нервный||Ich bin vor dem Test nervös.
+100643|aufgeregt|взволнованный||Die Kinder sind aufgeregt.
+100644|langweilig|скучный||Der Film ist langweilig.
+100645|interessant|интересный||Das Buch ist interessant.
+100646|hilfsbereit|готовый помочь||Meine Tochter ist hilfsbereit.
+100647|lustig|веселый||Der Clown ist lustig.
+100648|zufrieden|довольный||Ich bin mit dem Essen zufrieden.
+100649|unzufrieden|недовольный||Der Gast ist unzufrieden.
+100650|verliebt|влюбленный||Er ist in sie verliebt.
+
+100651|weich|мягкий||Das Bett ist weich.
+100652|hart|твердый, жесткий|Komp.: härter|Das Brot ist hart.
+100653|trocken|сухой||Die Wäsche ist trocken.
+100654|nass|мокрый||Meine Hose ist nass.
+100655|lang|длинный|Komp.: länger|Der Weg ist lang.
+100656|kurz|короткий|Komp.: kürzer|Die Pause ist kurz.
+100657|breit|широкий||Die Straße ist breit.
+100658|eng|узкий, тесный||Die Hose ist zu eng.
+100659|schwer|тяжелый||Die Tasche ist schwer.
+100660|leicht|легкий||Die Aufgabe ist leicht.
+100661|tief|глубокий||Der See ist tief.
+100662|flach|плоский, мелкий||Der Teller ist flach.
+100663|modern|современный||Die Wohnung ist modern.
+100664|altmodisch|старомодный||Die Kleidung ist altmodisch.
+100665|praktisch|практичный||Das ist sehr praktisch.
+100666|normal|обычный||Das ist ganz normal.
+100667|besonders|особенный||Heute ist ein besonderer Tag.
+100668|saftig|сочный||Die Orange ist saftig.
+100669|scharf|острый|Komp.: schärfer|Die Suppe ist scharf.
+100670|süß|сладкий||Der Kuchen ist süß.
+100671|sauer|кислый||Die Zitrone ist sauer.
+100672|salzig|соленый||Die Suppe ist salzig.
+100673|bitter|горький||Der Kaffee ist bitter.
+100674|frisch|свежий||Das Brot ist frisch.
+100675|zerbrechlich|хрупкий||Das Glas ist zerbrechlich.
+
+100676|spannend|интересный, захватывающий||Der Film ist spannend.
+100677|unglücklich|несчастный||Er ist heute unglücklich.
+100678|fit|в хорошей форме||Ich bin fit.
+100679|sicher|уверенный, безопасный||Ich bin mir sicher.
+100680|unsicher|неуверенный, небезопасный||Ich bin unsicher.
+100681|entspannt|расслабленный||Er ist ganz entspannt.
+100682|begeistert|в восторге||Die Kinder sind begeistert.
+100683|wütend|разгневанный||Mein Vater ist wütend.
+100684|enttäuscht|разочарованный||Ich bin enttäuscht.
+100685|überrascht|удивленный||Sie ist sehr überrascht.
+100686|froh|радостный||Ich bin froh.
+100687|angenehm|приятный||Das Wetter ist angenehm.
+100688|unangenehm|неприятный||Der Geruch ist unangenehm.
+100689|stolz|гордый||Sie ist stolz auf ihren Sohn.
+100690|beschäftigt|занятый||Ich bin heute beschäftigt.
+100691|neugierig|любопытный||Das Kind ist neugierig.
+100692|gestresst|испытывающий стресс||Mein Chef ist gestresst.
+100693|gelangweilt|скучающий||Die Schüler sind gelangweilt.
+100694|verwirrt|смущенный, растерянный||Ich bin verwirrt.
+100695|verlegen|смущенный||Das Mädchen ist verlegen.
+100696|interessiert|заинтересованный||Er ist an Musik interessiert.
+100697|überzeugt|убежденный||Ich bin davon überzeugt.
+100698|ängstlich|испуганный||Das Kind ist ängstlich.
+100699|mündlich|устный||Die Prüfung ist mündlich.
+100700|zufällig|случайно||Wir treffen uns zufällig.
+
+100701|aufstehen|вставать|ich stehe auf, du stehst auf, er steht auf; Prät.: stand auf; Perf.: ist aufgestanden|Ich stehe um sieben Uhr auf.
+100702|aufwachen|просыпаться|ich wache auf, du wachst auf, er wacht auf; Prät.: wachte auf; Perf.: ist aufgewacht|Ich wache früh auf.
+100703|anziehen|одевать|ich ziehe an, du ziehst an, er zieht an; Prät.: zog an; Perf.: hat angezogen|Ich ziehe das Kind an.
+100704|ausziehen|раздевать, переезжать|ich ziehe aus, du ziehst aus, er zieht aus; Prät.: zog aus; Perf.: hat ausgezogen / ist ausgezogen|Ich ziehe meine Jacke aus.
+100705|duschen|принимать душ|ich dusche, du duschst, er duscht; Prät.: duschte; Perf.: hat geduscht|Ich dusche jeden Morgen.
+100706|baden|купаться|ich bade, du badest, er badet; Prät.: badete; Perf.: hat gebadet|Das Kind badet in der Badewanne.
+100707|waschen|мыть, стирать|ich wasche, du wäschst, er wäscht; Prät.: wusch; Perf.: hat gewaschen|Ich wasche die Hände.
+100708|sich waschen|мыться|ich wasche mich, du wäschst dich, er wäscht sich; Prät.: wusch sich; Perf.: hat sich gewaschen|Ich wasche mich am Morgen.
+100709|sich anziehen|одеваться|ich ziehe mich an, du ziehst dich an, er zieht sich an; Prät.: zog sich an; Perf.: hat sich angezogen|Ich ziehe mich schnell an.
+100710|putzen|чистить, убирать|ich putze, du putzt, er putzt; Prät.: putzte; Perf.: hat geputzt|Ich putze die Küche.
+100711|aufräumen|убирать, наводить порядок|ich räume auf, du räumst auf, er räumt auf; Prät.: räumte auf; Perf.: hat aufgeräumt|Ich räume mein Zimmer auf.
+100712|kochen|готовить|ich koche, du kochst, er kocht; Prät.: kochte; Perf.: hat gekocht|Ich koche Suppe.
+100713|backen|печь|ich backe, du bäckst, er bäckt; Prät.: backte; Perf.: hat gebacken|Meine Mutter backt einen Kuchen.
+100714|schneiden|резать|ich schneide, du schneidest, er schneidet; Prät.: schnitt; Perf.: hat geschnitten|Ich schneide das Brot.
+100715|braten|жарить|ich brate, du brätst, er brät; Prät.: briet; Perf.: hat gebraten|Ich brate ein Ei.
+100716|einkaufen|ходить за покупками|ich kaufe ein, du kaufst ein, er kauft ein; Prät.: kaufte ein; Perf.: hat eingekauft|Wir kaufen im Supermarkt ein.
+100717|arbeiten|работать|ich arbeite, du arbeitest, er arbeitet; Prät.: arbeitete; Perf.: hat gearbeitet|Ich arbeite in einem Büro.
+100718|einschlafen|засыпать|ich schlafe ein, du schläfst ein, er schläft ein; Prät.: schlief ein; Perf.: ist eingeschlafen|Das Kind schläft schnell ein.
+100719|aufmachen|открывать|ich mache auf, du machst auf, er macht auf; Prät.: machte auf; Perf.: hat aufgemacht|Ich mache die Tür auf.
+100720|zumachen|закрывать|ich mache zu, du machst zu, er macht zu; Prät.: machte zu; Perf.: hat zugemacht|Ich mache das Fenster zu.
+100721|anmachen|включать|ich mache an, du machst an, er macht an; Prät.: machte an; Perf.: hat angemacht|Ich mache das Licht an.
+100722|ausmachen|выключать|ich mache aus, du machst aus, er macht aus; Prät.: machte aus; Perf.: hat ausgemacht|Ich mache den Fernseher aus.
+100723|fernsehen|смотреть телевизор|ich sehe fern, du siehst fern, er sieht fern; Prät.: sah fern; Perf.: hat ferngesehen|Wir sehen am Abend fern.
+100724|sich ausruhen|отдыхать|ich ruhe mich aus, du ruhst dich aus, er ruht sich aus; Prät.: ruhte sich aus; Perf.: hat sich ausgeruht|Ich ruhe mich auf dem Sofa aus.
+100725|aufhängen|вешать|ich hänge auf, du hängst auf, er hängt auf; Prät.: hängte auf; Perf.: hat aufgehängt|Ich hänge die Jacke auf.
+
+100726|bringen|приносить|ich bringe, du bringst, er bringt; Prät.: brachte; Perf.: hat gebracht|Ich bringe dir ein Glas Wasser.
+100727|holen|приносить, забирать|ich hole, du holst, er holt; Prät.: holte; Perf.: hat geholt|Ich hole das Brot.
+100728|tragen|нести, носить|ich trage, du trägst, er trägt; Prät.: trug; Perf.: hat getragen|Er trägt die Tasche.
+100729|legen|класть горизонтально|ich lege, du legst, er legt; Prät.: legte; Perf.: hat gelegt|Ich lege das Buch auf den Tisch.
+100730|stellen|ставить|ich stelle, du stellst, er stellt; Prät.: stellte; Perf.: hat gestellt|Ich stelle die Flasche auf den Tisch.
+100731|sitzen|сидеть|ich sitze, du sitzt, er sitzt; Prät.: saß; Perf.: hat gesessen|Ich sitze auf dem Stuhl.
+100732|stehen|стоять|ich stehe, du stehst, er steht; Prät.: stand; Perf.: hat gestanden|Das Glas steht auf dem Tisch.
+100733|liegen|лежать|ich liege, du liegst, er liegt; Prät.: lag; Perf.: hat gelegen|Das Buch liegt auf dem Tisch.
+100734|setzen|сажать, ставить|ich setze, du setzt, er setzt; Prät.: setzte; Perf.: hat gesetzt|Ich setze das Kind auf den Stuhl.
+100735|helfen|помогать|ich helfe, du hilfst, er hilft; Prät.: half; Perf.: hat geholfen|Ich helfe meiner Mutter.
+100736|suchen|искать|ich suche, du suchst, er sucht; Prät.: suchte; Perf.: hat gesucht|Ich suche meinen Schlüssel.
+100737|finden|находить|ich finde, du findest, er findet; Prät.: fand; Perf.: hat gefunden|Ich finde meine Tasche nicht.
+100738|brauchen|нуждаться|ich brauche, du brauchst, er braucht; Prät.: brauchte; Perf.: hat gebraucht|Ich brauche einen Stift.
+100739|benutzen|использовать|ich benutze, du benutzt, er benutzt; Prät.: benutzte; Perf.: hat benutzt|Ich benutze mein Handy.
+100740|öffnen|открывать|ich öffne, du öffnest, er öffnet; Prät.: öffnete; Perf.: hat geöffnet|Ich öffne die Tür.
+100741|schließen|закрывать|ich schließe, du schließt, er schließt; Prät.: schloss; Perf.: hat geschlossen|Ich schließe das Fenster.
+100742|warten|ждать|ich warte, du wartest, er wartet; Prät.: wartete; Perf.: hat gewartet|Ich warte auf den Bus.
+100743|beginnen|начинать|ich beginne, du beginnst, er beginnt; Prät.: begann; Perf.: hat begonnen|Der Unterricht beginnt um neun Uhr.
+100744|enden|заканчивать|ich ende, du endest, er endet; Prät.: endete; Perf.: hat geendet|Der Film endet um zehn Uhr.
+100745|dauern|длиться|ich dauere, du dauerst, er dauert; Prät.: dauerte; Perf.: hat gedauert|Der Kurs dauert zwei Stunden.
+100746|passieren|происходить|es passiert; Prät.: passierte; Perf.: ist passiert|Was ist passiert?
+100747|verlieren|терять, проигрывать|ich verliere, du verlierst, er verliert; Prät.: verlor; Perf.: hat verloren|Ich verliere oft meinen Schlüssel.
+100748|gewinnen|выигрывать|ich gewinne, du gewinnst, er gewinnt; Prät.: gewann; Perf.: hat gewonnen|Unsere Mannschaft gewinnt das Spiel.
+100749|treffen|встречать|ich treffe, du triffst, er trifft; Prät.: traf; Perf.: hat getroffen|Ich treffe meine Freunde im Café.
+100750|kennenlernen|знакомиться|ich lerne kennen, du lernst kennen, er lernt kennen; Prät.: lernte kennen; Perf.: hat kennengelernt|Ich möchte neue Leute kennenlernen.
+
+100751|sagen|говорить, сказать|ich sage, du sagst, er sagt; Prät.: sagte; Perf.: hat gesagt|Was sagst du?
+100752|erzählen|рассказывать|ich erzähle, du erzählst, er erzählt; Prät.: erzählte; Perf.: hat erzählt|Sie erzählt eine Geschichte.
+100753|erklären|объяснять|ich erkläre, du erklärst, er erklärt; Prät.: erklärte; Perf.: hat erklärt|Der Lehrer erklärt die Aufgabe.
+100754|zeigen|показывать|ich zeige, du zeigst, er zeigt; Prät.: zeigte; Perf.: hat gezeigt|Ich zeige dir mein Zimmer.
+100755|nennen|называть|ich nenne, du nennst, er nennt; Prät.: nannte; Perf.: hat genannt|Bitte nennen Sie Ihren Namen.
+100756|wiederholen|повторять|ich wiederhole, du wiederholst, er wiederholt; Prät.: wiederholte; Perf.: hat wiederholt|Bitte wiederholen Sie das noch einmal.
+100757|buchstabieren|произносить по буквам|ich buchstabiere, du buchstabierst, er buchstabiert; Prät.: buchstabierte; Perf.: hat buchstabiert|Können Sie Ihren Namen buchstabieren?
+100758|übersetzen|переводить|ich übersetze, du übersetzt, er übersetzt; Prät.: übersetzte; Perf.: hat übersetzt|Ich übersetze den Satz.
+100759|telefonieren|разговаривать по телефону|ich telefoniere, du telefonierst, er telefoniert; Prät.: telefonierte; Perf.: hat telefoniert|Ich telefoniere mit meiner Mutter.
+100760|anrufen|звонить|ich rufe an, du rufst an, er ruft an; Prät.: rief an; Perf.: hat angerufen|Ich rufe dich heute Abend an.
+100761|zurückrufen|перезванивать|ich rufe zurück, du rufst zurück, er ruft zurück; Prät.: rief zurück; Perf.: hat zurückgerufen|Ich rufe dich später zurück.
+100762|mailen|писать по электронной почте|ich maile, du mailst, er mailt; Prät.: mailte; Perf.: hat gemailt|Ich maile dir morgen.
+100763|schicken|посылать|ich schicke, du schickst, er schickt; Prät.: schickte; Perf.: hat geschickt|Ich schicke dir ein Foto.
+100764|senden|отправлять|ich sende, du sendest, er sendet; Prät.: sendete / sandte; Perf.: hat gesendet / hat gesandt|Ich sende dir eine Nachricht.
+100765|bitten|просить|ich bitte, du bittest, er bittet; Prät.: bat; Perf.: hat gebeten|Ich bitte dich um Hilfe.
+100766|danken|благодарить|ich danke, du dankst, er dankt; Prät.: dankte; Perf.: hat gedankt|Ich danke dir für die Hilfe.
+100767|gratulieren|поздравлять|ich gratuliere, du gratulierst, er gratuliert; Prät.: gratulierte; Perf.: hat gratuliert|Ich gratuliere dir zum Geburtstag.
+100768|einladen|приглашать|ich lade ein, du lädst ein, er lädt ein; Prät.: lud ein; Perf.: hat eingeladen|Ich lade dich zur Party ein.
+100769|empfehlen|рекомендовать|ich empfehle, du empfiehlst, er empfiehlt; Prät.: empfahl; Perf.: hat empfohlen|Ich empfehle dir dieses Restaurant.
+100770|besprechen|обсуждать|ich bespreche, du besprichst, er bespricht; Prät.: besprach; Perf.: hat besprochen|Wir besprechen den Plan.
+100771|diskutieren|дискутировать|ich diskutiere, du diskutierst, er diskutiert; Prät.: diskutierte; Perf.: hat diskutiert|Wir diskutieren das Thema.
+100772|zustimmen|соглашаться|ich stimme zu, du stimmst zu, er stimmt zu; Prät.: stimmte zu; Perf.: hat zugestimmt|Ich stimme dir zu.
+100773|ablehnen|отклонять, отказываться|ich lehne ab, du lehnst ab, er lehnt ab; Prät.: lehnte ab; Perf.: hat abgelehnt|Er lehnt das Angebot ab.
+100774|vorstellen|представлять|ich stelle vor, du stellst vor, er stellt vor; Prät.: stellte vor; Perf.: hat vorgestellt|Ich stelle dir meinen Freund vor.
+100775|sich bedanken|благодарить|ich bedanke mich, du bedankst dich, er bedankt sich; Prät.: bedankte sich; Perf.: hat sich bedankt|Ich bedanke mich für das Geschenk.
+
+100776|laufen|бежать, ходить|ich laufe, du läufst, er läuft; Prät.: lief; Perf.: ist gelaufen|Ich laufe zur Schule.
+100777|rennen|мчаться, бежать|ich renne, du rennst, er rennt; Prät.: rannte; Perf.: ist gerannt|Das Kind rennt zum Bus.
+100778|joggen|бегать трусцой|ich jogge, du joggst, er joggt; Prät.: joggte; Perf.: ist gejoggt / hat gejoggt|Ich jogge am Morgen im Park.
+100779|spazieren|гулять|ich spaziere, du spazierst, er spaziert; Prät.: spazierte; Perf.: ist spaziert|Wir spazieren durch den Park.
+100780|reisen|путешествовать|ich reise, du reist, er reist; Prät.: reiste; Perf.: ist gereist|Ich reise gern nach Italien.
+100781|fliegen|летать|ich fliege, du fliegst, er fliegt; Prät.: flog; Perf.: ist geflogen|Wir fliegen nach Berlin.
+100782|einsteigen|садиться в транспорт|ich steige ein, du steigst ein, er steigt ein; Prät.: stieg ein; Perf.: ist eingestiegen|Ich steige in den Bus ein.
+100783|aussteigen|выходить из транспорта|ich steige aus, du steigst aus, er steigt aus; Prät.: stieg aus; Perf.: ist ausgestiegen|Ich steige am Bahnhof aus.
+100784|umsteigen|делать пересадку|ich steige um, du steigst um, er steigt um; Prät.: stieg um; Perf.: ist umgestiegen|Ich steige in Köln um.
+100785|abfahren|отправляться|ich fahre ab, du fährst ab, er fährt ab; Prät.: fuhr ab; Perf.: ist abgefahren|Der Zug fährt um acht Uhr ab.
+100786|ankommen|прибывать|ich komme an, du kommst an, er kommt an; Prät.: kam an; Perf.: ist angekommen|Der Zug kommt um zehn Uhr an.
+100787|verlassen|покидать|ich verlasse, du verlässt, er verlässt; Prät.: verließ; Perf.: hat verlassen|Ich verlasse das Haus um sieben Uhr.
+100788|folgen|следовать|ich folge, du folgst, er folgt; Prät.: folgte; Perf.: ist gefolgt|Bitte folgen Sie mir.
+100789|abbiegen|поворачивать|ich biege ab, du biegst ab, er biegt ab; Prät.: bog ab; Perf.: ist abgebogen|Hier biegen Sie links ab.
+100790|überqueren|переходить, пересекать|ich überquere, du überquerst, er überquert; Prät.: überquerte; Perf.: hat überquert|Ich überquere die Straße.
+100791|parken|парковать|ich parke, du parkst, er parkt; Prät.: parkte; Perf.: hat geparkt|Ich parke das Auto vor dem Haus.
+100792|starten|стартовать|ich starte, du startest, er startet; Prät.: startete; Perf.: ist gestartet / hat gestartet|Das Flugzeug startet um neun Uhr.
+100793|landen|приземляться|ich lande, du landest, er landet; Prät.: landete; Perf.: ist gelandet|Das Flugzeug landet in München.
+100794|schwimmen|плавать|ich schwimme, du schwimmst, er schwimmt; Prät.: schwamm; Perf.: ist geschwommen|Ich schwimme gern im See.
+100795|tanzen|танцевать|ich tanze, du tanzt, er tanzt; Prät.: tanzte; Perf.: hat getanzt|Wir tanzen auf der Party.
+100796|singen|петь|ich singe, du singst, er singt; Prät.: sang; Perf.: hat gesungen|Sie singt ein Lied.
+100797|springen|прыгать|ich springe, du springst, er springt; Prät.: sprang; Perf.: ist gesprungen|Das Kind springt ins Wasser.
+100798|klettern|карабкаться|ich klettere, du kletterst, er klettert; Prät.: kletterte; Perf.: ist geklettert|Die Katze klettert auf den Baum.
+100799|fallen|падать|ich falle, du fällst, er fällt; Prät.: fiel; Perf.: ist gefallen|Das Kind fällt auf den Boden.
+100800|ziehen|тянуть, переезжать|ich ziehe, du ziehst, er zieht; Prät.: zog; Perf.: hat gezogen / ist gezogen|Wir ziehen nach Berlin.
+
+100801|dürfen|мочь, иметь разрешение|ich darf, du darfst, er darf; Prät.: durfte; Perf.: hat gedurft|Hier darf man nicht rauchen.
+100802|können|мочь, уметь|ich kann, du kannst, er kann; Prät.: konnte; Perf.: hat gekonnt|Ich kann gut schwimmen.
+100803|müssen|долженствовать|ich muss, du musst, er muss; Prät.: musste; Perf.: hat gemusst|Ich muss heute arbeiten.
+100804|sollen|следует, быть должным|ich soll, du sollst, er soll; Prät.: sollte; Perf.: hat gesollt|Du sollst mehr Wasser trinken.
+100805|wollen|хотеть|ich will, du willst, er will; Prät.: wollte; Perf.: hat gewollt|Ich will einen Kaffee.
+100806|mögen|любить, нравиться|ich mag, du magst, er mag; Prät.: mochte; Perf.: hat gemocht|Ich mag Schokolade.
+100807|möchten|хотеть бы|ich möchte, du möchtest, er möchte; Prät.: wollte; Perf.: hat gewollt|Ich möchte einen Tee.
+100808|lassen|позволять, оставлять|ich lasse, du lässt, er lässt; Prät.: ließ; Perf.: hat gelassen|Er lässt das Fenster offen.
+100809|bleiben|оставаться|ich bleibe, du bleibst, er bleibt; Prät.: blieb; Perf.: ist geblieben|Ich bleibe heute zu Hause.
+100810|werden|становиться|ich werde, du wirst, er wird; Prät.: wurde; Perf.: ist geworden|Es wird kalt.
+100811|geben|давать|ich gebe, du gibst, er gibt; Prät.: gab; Perf.: hat gegeben|Ich gebe dir das Buch.
+100812|nehmen|брать|ich nehme, du nimmst, er nimmt; Prät.: nahm; Perf.: hat genommen|Ich nehme den Bus.
+100813|wissen|знать (факт)|ich weiß, du weißt, er weiß; Prät.: wusste; Perf.: hat gewusst|Ich weiß die Antwort.
+100814|kennen|знать, быть знакомым|ich kenne, du kennst, er kennt; Prät.: kannte; Perf.: hat gekannt|Ich kenne diesen Mann.
+100815|glauben|верить, полагать|ich glaube, du glaubst, er glaubt; Prät.: glaubte; Perf.: hat geglaubt|Ich glaube dir.
+100816|denken|думать|ich denke, du denkst, er denkt; Prät.: dachte; Perf.: hat gedacht|Ich denke an dich.
+100817|meinen|считать, иметь в виду|ich meine, du meinst, er meint; Prät.: meinte; Perf.: hat gemeint|Was meinst du?
+100818|merken|замечать, запоминать|ich merke, du merkst, er merkt; Prät.: merkte; Perf.: hat gemerkt|Ich merke den Fehler nicht.
+100819|hoffen|надеяться|ich hoffe, du hoffst, er hofft; Prät.: hoffte; Perf.: hat gehofft|Ich hoffe, du kommst.
+100820|wünschen|желать|ich wünsche, du wünschst, er wünscht; Prät.: wünschte; Perf.: hat gewünscht|Ich wünsche dir viel Glück.
+100821|entscheiden|решать|ich entscheide, du entscheidest, er entscheidet; Prät.: entschied; Perf.: hat entschieden|Ich entscheide mich heute.
+100822|versuchen|пытаться|ich versuche, du versuchst, er versucht; Prät.: versuchte; Perf.: hat versucht|Ich versuche es noch einmal.
+100823|vergessen|забывать|ich vergesse, du vergisst, er vergisst; Prät.: vergaß; Perf.: hat vergessen|Ich vergesse nie meinen Schlüssel.
+100824|erlauben|разрешать|ich erlaube, du erlaubst, er erlaubt; Prät.: erlaubte; Perf.: hat erlaubt|Die Mutter erlaubt das Spiel.
+100825|verbieten|запрещать|ich verbiete, du verbietest, er verbietet; Prät.: verbot; Perf.: hat verboten|Der Arzt verbietet den Zucker.
+
+100826|hier|здесь||Ich bin hier.
+100827|dort|там||Das Buch liegt dort.
+100828|da|там, здесь||Ist er da?
+100829|oben|наверху||Das Buch liegt oben.
+100830|unten|внизу||Die Schuhe stehen unten.
+100831|drinnen|внутри||Die Kinder spielen drinnen.
+100832|draußen|снаружи||Wir essen draußen.
+100833|vorne|спереди||Das Auto steht vorne.
+100834|hinten|сзади||Der Hund sitzt hinten.
+100835|neben|рядом с||Die Schule ist neben dem Park.
+100836|zwischen|между||Der Tisch steht zwischen den Stühlen.
+100837|gegenüber|напротив||Die Bank ist gegenüber dem Hotel.
+100838|entlang|вдоль||Wir gehen die Straße entlang.
+100839|in|в||Ich wohne in Berlin.
+100840|an|у, на||Das Bild hängt an der Wand.
+100841|auf|на||Das Buch liegt auf dem Tisch.
+100842|unter|под||Die Katze schläft unter dem Bett.
+100843|über|над, через||Die Lampe hängt über dem Tisch.
+100844|vor|перед, до||Vor dem Haus steht ein Baum.
+100845|hinter|за||Der Garten ist hinter dem Haus.
+100846|mit|с||Ich gehe mit meiner Freundin.
+100847|ohne|без||Er trinkt Kaffee ohne Milch.
+100848|für|для||Das Geschenk ist für dich.
+100849|von|от, из||Das ist ein Brief von meiner Mutter.
+100850|zu|к||Ich gehe zu meinem Freund.
+
+100851|sofort|немедленно||Komm bitte sofort!
+100852|später|позже||Wir sehen uns später.
+100853|früh|рано||Ich stehe früh auf.
+100854|spät|поздно||Es ist schon spät.
+100855|bald|скоро||Der Bus kommt bald.
+100856|immer|всегда||Er ist immer pünktlich.
+100857|oft|часто||Wir gehen oft ins Kino.
+100858|manchmal|иногда||Manchmal esse ich Fisch.
+100859|selten|редко||Ich esse selten Fleisch.
+100860|nie|никогда||Ich trinke nie Bier.
+100861|schon|уже||Ich bin schon fertig.
+100862|noch|еще||Ich habe noch Hunger.
+100863|wieder|снова||Morgen komme ich wieder.
+100864|zuerst|сначала||Zuerst esse ich Brot.
+100865|danach|после этого||Danach gehe ich schlafen.
+100866|dann|потом||Dann trinke ich Tee.
+100867|vorher|до этого||Vorher habe ich gearbeitet.
+100868|zuletzt|в последний раз||Zuletzt war ich im Mai hier.
+100869|zusammen|вместе||Wir lernen zusammen.
+100870|sehr|очень||Das Essen ist sehr gut.
+100871|ganz|совсем, весь||Das ist ganz einfach.
+100872|genug|достаточно||Ich habe genug Geld.
+100873|vielleicht|возможно||Vielleicht komme ich morgen.
+100874|fast|почти||Ich bin fast fertig.
+100875|meistens|обычно, чаще всего||Meistens esse ich um zwölf Uhr.
+
+100876|ich|я||Ich bin Anna.
+100877|du|ты||Du bist nett.
+100878|er|он||Er wohnt in Wien.
+100879|sie|она, они||Sie kommt aus Italien.
+100880|es|оно||Es ist kalt.
+100881|wir|мы||Wir lernen Deutsch.
+100882|ihr|вы (множественное число)||Ihr seid meine Freunde.
+100883|man|неопределенно-личное местоимение||Man spricht hier Deutsch.
+100884|mich|меня||Er sieht mich.
+100885|dich|тебя||Ich liebe dich.
+100886|ihn|его||Ich kenne ihn.
+100887|uns|нас||Er besucht uns.
+100888|euch|вас (множественное число)||Ich rufe euch an.
+100889|mir|мне||Das Buch gehört mir.
+100890|dir|тебе||Ich gebe dir das Buch.
+100891|ihm|ему||Ich helfe ihm.
+100892|ihnen|им||Ich danke ihnen.
+100893|mein|мой||Das ist mein Bruder.
+100894|dein|твой||Ist das dein Auto?
+100895|unser|наш||Das ist unser Haus.
+100896|euer|ваш (множественное число)||Ist das euer Hund?
+100897|dieser|этот||Dieser Mann ist nett.
+100898|diese|эта, эти||Diese Frau ist meine Lehrerin.
+100899|dieses|это||Dieses Buch ist neu.
+100900|jede|каждая||Jede Frau hat eine Tasche.
+
+100901|wer|кто||Wer ist das?
+100902|was|что||Was ist das?
+100903|wann|когда||Wann kommst du?
+100904|wo|где||Wo wohnst du?
+100905|wohin|куда||Wohin gehst du?
+100906|woher|откуда||Woher kommst du?
+100907|warum|почему||Warum lernst du Deutsch?
+100908|wie|как||Wie heißt du?
+100909|wie viel|сколько (неисчисляемое)||Wie viel Geld hast du?
+100910|wie viele|сколько (исчисляемое)||Wie viele Kinder hast du?
+100911|welcher|который (мужской род)||Welcher Bus fährt zum Bahnhof?
+100912|welche|которая, которые||Welche Farbe magst du?
+100913|welches|которое||Welches Buch liest du?
+100914|wessen|чей||Wessen Tasche ist das?
+100915|wem|кому||Wem gehört das Auto?
+100916|wen|кого||Wen besuchst du?
+100917|und|и||Ich trinke Tee und Wasser.
+100918|oder|или||Möchtest du Tee oder Kaffee?
+100919|aber|но||Ich bin müde, aber glücklich.
+100920|denn|потому что, ведь||Ich bleibe zu Hause, denn ich bin krank.
+100921|weil|потому что||Ich lerne Deutsch, weil ich in Berlin wohne.
+100922|dass|что||Ich weiß, dass du Hunger hast.
+100923|wenn|если, когда||Wenn es regnet, bleibe ich zu Hause.
+100924|also|итак, значит||Du bist müde, also schlaf bitte.
+100925|deshalb|поэтому||Ich bin krank, deshalb bleibe ich zu Hause.
+
+100926|Wie geht es Ihnen?|Как у Вас дела?||Guten Tag, wie geht es Ihnen?
+100927|Wie geht es dir?|Как у тебя дела?||Hallo Paul, wie geht es dir?
+100928|Mir geht es gut.|У меня все хорошо.||Mir geht es gut, danke.
+100929|Es geht mir gut.|У меня все хорошо.||Es geht mir heute gut.
+100930|Nicht so gut.|Не очень хорошо.||Nicht so gut, ich bin müde.
+100931|Danke, gut.|Спасибо, хорошо.||Danke, gut.
+100932|Und dir?|А у тебя?||Mir geht es gut. Und dir?
+100933|Und Ihnen?|А у Вас?||Mir geht es gut. Und Ihnen?
+100934|Freut mich.|Приятно познакомиться.||Ich bin Anna. Freut mich.
+100935|Wie heißen Sie?|Как Вас зовут?||Wie heißen Sie?
+100936|Wie ist Ihr Name?|Как Ваше имя?||Wie ist Ihr Name?
+100937|Woher kommen Sie?|Откуда Вы?||Woher kommen Sie?
+100938|Wo wohnen Sie?|Где Вы живете?||Wo wohnen Sie?
+100939|Was machen Sie beruflich?|Кем Вы работаете?||Was machen Sie beruflich?
+100940|Ich komme aus ...|Я из ...||Ich komme aus Russland.
+100941|Ich wohne in ...|Я живу в ...||Ich wohne in Berlin.
+100942|Ich spreche ein bisschen Deutsch.|Я немного говорю по-немецки.||Ich spreche ein bisschen Deutsch.
+100943|Ich verstehe das nicht.|Я этого не понимаю.||Ich verstehe das nicht.
+100944|Können Sie das wiederholen?|Не могли бы Вы это повторить?||Können Sie das bitte wiederholen?
+100945|Bitte sprechen Sie langsamer.|Пожалуйста, говорите медленнее.||Bitte sprechen Sie langsamer.
+100946|Wie sagt man ... auf Deutsch?|Как сказать ... по-немецки?||Wie sagt man Danke auf Deutsch?
+100947|Was bedeutet das?|Что это означает?||Was bedeutet das Wort?
+100948|Ich weiß nicht.|Я не знаю.||Ich weiß nicht.
+100949|Noch einmal, bitte.|Еще раз, пожалуйста.||Noch einmal, bitte.
+100950|Sprechen Sie Englisch?|Вы говорите по-английски?||Sprechen Sie Englisch?
+
+100951|Ich hätte gern ...|Я хотел бы ...||Ich hätte gern einen Kaffee.
+100952|Was kostet das?|Сколько это стоит?||Was kostet das?
+100953|Wie viel kostet ...?|Сколько стоит ...?||Wie viel kostet das Brot?
+100954|Kann ich bitte ... bekommen?|Можно мне, пожалуйста, ...?||Kann ich bitte einen Tee bekommen?
+100955|Die Rechnung, bitte.|Счет, пожалуйста.||Die Rechnung, bitte.
+100956|Zahlen, bitte.|Рассчитайте, пожалуйста.||Zahlen, bitte.
+100957|Zum Mitnehmen, bitte.|С собой, пожалуйста.||Einen Kaffee zum Mitnehmen, bitte.
+100958|Einen Tisch für zwei, bitte.|Столик на двоих, пожалуйста.||Einen Tisch für zwei, bitte.
+100959|Was empfehlen Sie?|Что Вы посоветуете?||Was empfehlen Sie?
+100960|Ich nehme ...|Я возьму ...||Ich nehme die Suppe.
+100961|Ich möchte bestellen.|Я хотел бы сделать заказ.||Ich möchte bestellen.
+100962|Ist das vegetarisch?|Это вегетарианское блюдо?||Ist das vegetarisch?
+100963|Ohne Zucker, bitte.|Без сахара, пожалуйста.||Kaffee ohne Zucker, bitte.
+100964|Mit Karte, bitte.|Картой, пожалуйста.||Mit Karte, bitte.
+100965|Kann ich bar bezahlen?|Можно заплатить наличными?||Kann ich bar bezahlen?
+100966|Haben Sie ...?|У Вас есть ...?||Haben Sie Brot?
+100967|Wo kann ich bezahlen?|Где я могу заплатить?||Wo kann ich bezahlen?
+100968|Kann ich das umtauschen?|Можно это обменять?||Kann ich das umtauschen?
+100969|Ich suche ...|Я ищу ...||Ich suche eine Jacke.
+100970|Haben Sie eine andere Größe?|У Вас есть другой размер?||Haben Sie eine andere Größe?
+100971|Das ist zu teuer.|Это слишком дорого.||Das ist zu teuer.
+100972|Das passt gut.|Это хорошо подходит.||Das passt gut.
+100973|Ich probiere das an.|Я это примерю.||Ich probiere die Hose an.
+100974|Ich nehme es.|Я это беру.||Ich nehme es.
+100975|Ich schaue nur.|Я только смотрю.||Ich schaue nur.
+
+100976|Wo ist ...?|Где находится ...?||Wo ist der Bahnhof?
+100977|Wie komme ich zum ...?|Как мне добраться до ...?||Wie komme ich zum Bahnhof?
+100978|Wann fährt der Zug?|Когда отправляется поезд?||Wann fährt der Zug?
+100979|Wann kommt der Bus?|Когда приезжает автобус?||Wann kommt der Bus?
+100980|Ein Ticket nach ..., bitte.|Один билет до ..., пожалуйста.||Ein Ticket nach Berlin, bitte.
+100981|Einfach oder hin und zurück?|В одну сторону или туда и обратно?||Einfach oder hin und zurück?
+100982|Wo muss ich umsteigen?|Где мне нужно пересесть?||Wo muss ich umsteigen?
+100983|Ist dieser Platz frei?|Это место свободно?||Ist dieser Platz frei?
+100984|Der Zug hat Verspätung.|Поезд задерживается.||Der Zug hat Verspätung.
+100985|Ich habe eine Reservierung.|У меня есть бронирование.||Ich habe eine Reservierung.
+100986|Ein Zimmer für eine Nacht, bitte.|Номер на одну ночь, пожалуйста.||Ein Zimmer für eine Nacht, bitte.
+100987|Haben Sie noch ein Zimmer frei?|У Вас еще есть свободный номер?||Haben Sie noch ein Zimmer frei?
+100988|Ich brauche ein Taxi.|Мне нужно такси.||Ich brauche ein Taxi.
+100989|Rufen Sie bitte einen Arzt.|Вызовите, пожалуйста, врача.||Rufen Sie bitte einen Arzt.
+100990|Ich habe einen Termin.|У меня назначена встреча.||Ich habe einen Termin.
+100991|Ich möchte einen Termin vereinbaren.|Я хотел бы договориться о встрече.||Ich möchte einen Termin vereinbaren.
+100992|Um wie viel Uhr?|В котором часу?||Um wie viel Uhr beginnt der Kurs?
+100993|Am Montag um ...|В понедельник в ...||Am Montag um acht Uhr.
+100994|Kann ich später kommen?|Можно мне прийти позже?||Kann ich später kommen?
+100995|Ich bin zu spät.|Я опоздал.||Ich bin zu spät.
+100996|Entschuldigung, wo ist ...?|Извините, где находится ...?||Entschuldigung, wo ist die Toilette?
+100997|Können Sie mir helfen?|Вы можете мне помочь?||Können Sie mir helfen?
+100998|Bitte warten Sie hier.|Пожалуйста, подождите здесь.||Bitte warten Sie hier.
+100999|Ich habe mich verirrt.|Я заблудился.||Ich habe mich verirrt.
+101000|Vorsicht!|Осторожно!||Vorsicht, der Boden ist nass!
